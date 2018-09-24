@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="666px" height="162px" viewBox="0 0 666 162" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>bg-v6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="main-v6-slide-1" transform="translate(-978.000000, -3324.000000)" fill="#2B404C" fill-rule="nonzero">
+            <g id="5-section---payment-system" transform="translate(276.000000, 3324.000000)">
+                <g id="bg-v6" transform="translate(702.000000, -101.000000)">
+                    <g id="Group" opacity="0.7" style="mix-blend-mode: multiply;" transform="translate(0.000000, 137.000000)">
+                        <path d="M113.98,60.21 L64.36,86.21" id="Shape"></path>
+                        <polygon id="Shape" points="64.4 86.29 64.32 86.14 113.94 60.13 114.02 60.28"></polygon>
+                        <path d="M113.98,60.21 L64.36,86.21" id="Shape"></path>
+                        <polygon id="Shape" points="64.4 86.29 64.32 86.14 113.94 60.13 114.02 60.28"></polygon>
+                        <path d="M147.52,104.01 L113.98,60.21" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(131.074488, 81.853148) rotate(-37.440000) translate(-131.074488, -81.853148) " x="130.574488" y="54.2681477" width="1" height="55.17"></rect>
+                        <path d="M147.52,104.01 L113.98,60.21" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(131.074488, 81.853148) rotate(-37.440000) translate(-131.074488, -81.853148) " x="130.574488" y="54.2681477" width="1" height="55.17"></rect>
+                        <path d="M99.27,122.49 L147.52,104.01" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(123.540931, 113.633296) rotate(-21.000000) translate(-123.540931, -113.633296) " x="97.7059311" y="113.133296" width="51.67" height="1"></rect>
+                        <path d="M99.27,122.49 L113.98,60.21" id="Shape"></path>
+                        <polygon id="Shape" points="99.35 122.51 99.18 122.47 113.9 60.19 114.06 60.23"></polygon>
+                        <path d="M99.27,122.49 L113.98,60.21" id="Shape"></path>
+                        <polygon id="Shape" points="99.35 122.51 99.18 122.47 113.9 60.19 114.06 60.23"></polygon>
+                        <path d="M99.27,122.49 L64.36,86.21" id="Shape"></path>
+                        <polygon id="Shape" points="99.2 122.55 64.3 86.27 64.42 86.15 99.33 122.43"></polygon>
+                        <path d="M196.11,95.79 L147.52,104.01" id="Shape"></path>
+                        <polygon id="Shape" points="147.53 104.09 147.5 103.92 196.09 95.71 196.12 95.88"></polygon>
+                        <path d="M234.78,68.08 L196.11,95.79" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(215.679782, 82.264003) rotate(-35.490000) translate(-215.679782, -82.264003) " x="191.889782" y="81.764003" width="47.58" height="1"></rect>
+                        <path d="M285.08,42.41 L234.78,68.08" id="Shape"></path>
+                        <polygon id="Shape" points="234.82 68.15 234.74 68 285.04 42.34 285.12 42.49"></polygon>
+                        <path d="M227.25,52.68 L285.08,42.41" id="Shape"></path>
+                        <polygon id="Shape" points="227.26 52.76 227.23 52.59 285.06 42.33 285.1 42.5"></polygon>
+                        <path d="M227.25,52.68 L234.78,68.08" id="Shape"></path>
+                        <polygon id="Shape" points="234.7 68.11 227.17 52.72 227.33 52.64 234.85 68.04"></polygon>
+                        <path d="M227.25,52.68 L196.11,95.79" id="Shape"></path>
+                        <polygon id="Shape" points="196.18 95.84 196.04 95.74 227.18 52.63 227.32 52.73"></polygon>
+                        <path d="M174.21,42.75 L227.25,52.68" id="Shape"></path>
+                        <polygon id="Shape" points="227.23 52.76 174.19 42.84 174.22 42.67 227.26 52.59"></polygon>
+                        <path d="M174.21,42.75 L234.78,68.08" id="Shape"></path>
+                        <polygon id="Shape" points="234.74 68.16 174.18 42.83 174.24 42.68 234.81 68"></polygon>
+                        <path d="M174.21,42.75 L196.11,95.79" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(185.541671, 69.097639) rotate(-22.440000) translate(-185.541671, -69.097639) " x="185.041671" y="40.4076393" width="1" height="57.38"></rect>
+                        <path d="M174.21,42.75 L147.52,104.01" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(161.237209, 73.553576) rotate(-66.790000) translate(-161.237209, -73.553576) " x="127.827209" y="73.0535757" width="66.82" height="1"></rect>
+                        <path d="M174.21,42.75 L113.98,60.21" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(144.199876, 51.879384) rotate(-15.950000) translate(-144.199876, -51.879384) " x="112.849876" y="51.379384" width="62.7" height="1"></rect>
+                        <path d="M174.21,42.75 L113.98,60.21" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(144.199876, 51.879384) rotate(-15.950000) translate(-144.199876, -51.879384) " x="112.849876" y="51.379384" width="62.7" height="1"></rect>
+                        <path d="M158.47,141.65 L196.11,95.79" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(177.608335, 118.963383) rotate(-51.040000) translate(-177.608335, -118.963383) " x="147.943335" y="118.463383" width="59.33" height="1"></rect>
+                        <path d="M158.47,141.65 L99.27,122.49" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(128.995888, 131.688782) rotate(-72.060000) translate(-128.995888, -131.688782) " x="128.495888" y="100.578782" width="1" height="62.22"></rect>
+                        <path d="M158.47,141.65 L147.52,104.01" id="Shape"></path>
+                        <polygon id="Shape" points="158.38 141.67 147.43 104.03 147.6 103.98 158.55 141.63"></polygon>
+                        <path d="M257.71,117.35 L282.34,169.71" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(270.393734, 143.363727) rotate(-25.200000) translate(-270.393734, -143.363727) " x="269.893734" y="114.433727" width="1" height="57.86"></rect>
+                        <path d="M257.71,117.35 L230.67,155.34" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(244.525542, 136.599453) rotate(-54.570000) translate(-244.525542, -136.599453) " x="221.215542" y="136.099453" width="46.62" height="1"></rect>
+                        <path d="M257.71,117.35 L234.78,68.08" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(246.617143, 92.545885) rotate(-24.950000) translate(-246.617143, -92.545885) " x="246.117143" y="65.3708846" width="1" height="54.35"></rect>
+                        <path d="M257.71,117.35 L196.11,95.79" id="Shape"></path>
+                        <polygon id="Shape" points="257.68 117.43 196.08 95.88 196.14 95.71 257.73 117.27"></polygon>
+                        <path d="M181.39,140.62 L196.11,95.79" id="Shape"></path>
+                        <polygon id="Shape" points="181.47 140.65 181.31 140.6 196.03 95.77 196.19 95.82"></polygon>
+                        <path d="M181.39,140.62 L147.52,104.01" id="Shape"></path>
+                        <polygon id="Shape" points="181.33 140.68 147.45 104.06 147.58 103.95 181.46 140.56"></polygon>
+                        <path d="M412.04,102.98 L398.35,37.28" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(405.603891, 70.034366) rotate(-11.770000) translate(-405.603891, -70.034366) " x="405.103891" y="36.4793657" width="1" height="67.11"></rect>
+                        <path d="M346.68,50.28 L370.8,36.42" id="Shape"></path>
+                        <polygon id="Shape" points="346.72 50.36 346.63 50.21 370.76 36.35 370.85 36.5"></polygon>
+                        <path d="M346.68,50.28 L310.4,94.77" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(328.851838, 72.762650) rotate(-50.780000) translate(-328.851838, -72.762650) " x="300.151838" y="72.26265" width="57.4" height="1"></rect>
+                        <path d="M346.68,50.28 L398.35,37.28" id="Shape"></path>
+                        <polygon id="Shape" points="346.7 50.37 346.66 50.2 398.33 37.19 398.37 37.36"></polygon>
+                        <path d="M346.68,50.28 L341.2,92.37" id="Shape"></path>
+                        <polygon id="Shape" points="341.29 92.38 341.12 92.36 346.59 50.27 346.76 50.29"></polygon>
+                        <path d="M346.68,50.28 L285.08,42.41" id="Shape"></path>
+                        <polygon id="Shape" points="346.67 50.37 285.07 42.5 285.09 42.33 346.69 50.2"></polygon>
+                        <path d="M287.82,71.84 L346.68,50.28" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(317.386728, 61.470982) rotate(-20.090000) translate(-317.386728, -61.470982) " x="286.046728" y="60.9709824" width="62.68" height="1"></rect>
+                        <path d="M287.82,71.84 L310.4,94.77" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(299.401858, 83.001316) rotate(-44.570000) translate(-299.401858, -83.001316) " x="298.901858" y="66.9113162" width="1" height="32.18"></rect>
+                        <path d="M287.82,71.84 L341.2,92.37" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(314.677739, 81.742464) rotate(-68.960000) translate(-314.677739, -81.742464) " x="314.177739" y="53.1424636" width="1" height="57.2"></rect>
+                        <path d="M287.82,71.84 L257.71,117.35" id="Shape"></path>
+                        <polygon id="Shape" points="257.78 117.4 257.63 117.31 287.75 71.79 287.89 71.89"></polygon>
+                        <path d="M287.82,71.84 L227.25,52.68" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(257.667860, 61.882770) rotate(-72.440000) translate(-257.667860, -61.882770) " x="257.16786" y="30.1177699" width="1" height="63.53"></rect>
+                        <path d="M287.82,71.84 L285.08,42.41" id="Shape"></path>
+                        <polygon id="Shape" points="287.73 71.85 285 42.42 285.17 42.4 287.9 71.83"></polygon>
+                        <path d="M287.82,71.84 L234.78,68.08" id="Shape"></path>
+                        <polygon id="Shape" points="287.81 71.93 234.77 68.16 234.78 67.99 287.82 71.75"></polygon>
+                        <path d="M395.61,1.69 L370.8,36.42" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(383.544110, 19.310128) rotate(-54.290000) translate(-383.544110, -19.310128) " x="362.20411" y="18.8101285" width="42.68" height="1"></rect>
+                        <path d="M395.61,1.69 L398.35,37.28" id="Shape"></path>
+                        <polygon id="Shape" points="398.26 37.28 395.52 1.7 395.7 1.68 398.43 37.27"></polygon>
+                        <path d="M352.15,159.44 L341.2,92.37" id="Shape"></path>
+                        <polygon id="Shape" points="352.07 159.46 341.12 92.39 341.29 92.36 352.24 159.43"></polygon>
+                        <path d="M393.22,114.96 L352.15,159.44" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(372.987143, 137.504215) rotate(-47.290000) translate(-372.987143, -137.504215) " x="342.717143" y="137.004215" width="60.54" height="1"></rect>
+                        <path d="M393.22,114.96 L412.04,102.98" id="Shape"></path>
+                        <polygon id="Shape" points="393.26 115.03 393.17 114.89 411.99 102.91 412.08 103.05"></polygon>
+                        <path d="M393.22,114.96 L341.2,92.37" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(367.371534, 103.286502) rotate(-66.530000) translate(-367.371534, -103.286502) " x="366.871534" y="74.9315017" width="1" height="56.71"></rect>
+                        <path d="M76.68,177.24 L99.27,122.49" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(88.360329, 150.016115) rotate(-67.540000) translate(-88.360329, -150.016115) " x="58.745329" y="149.516115" width="59.23" height="1"></rect>
+                        <path d="M0.71,106.75 L64.36,86.21" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(32.674574, 96.865995) rotate(-17.910000) translate(-32.674574, -96.865995) " x="-0.765425777" y="96.3659949" width="66.88" height="1"></rect>
+                        <path d="M61.28,147.13 L99.27,122.49" id="Shape"></path>
+                        <polygon id="Shape" points="61.33 147.2 61.23 147.05 99.22 122.41 99.31 122.56"></polygon>
+                        <path d="M61.28,147.13 L64.36,86.21" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(63.239205, 116.701417) rotate(-87.050000) translate(-63.239205, -116.701417) " x="32.7442054" y="116.201417" width="60.99" height="1"></rect>
+                        <path d="M232.38,137.54 L257.71,117.35" id="Shape"></path>
+                        <polygon id="Shape" points="232.44 137.61 232.33 137.48 257.65 117.29 257.76 117.42"></polygon>
+                        <path d="M232.38,137.54 L196.11,95.79" id="Shape"></path>
+                        <polygon id="Shape" points="232.32 137.6 196.04 95.85 196.17 95.74 232.45 137.49"></polygon>
+                        <path d="M175.92,78 L181.39,140.62" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(179.081604, 109.263348) rotate(-5.000000) translate(-179.081604, -109.263348) " x="178.581604" y="77.8333478" width="1" height="62.86"></rect>
+                        <path d="M175.92,78 L158.47,141.65" id="Shape"></path>
+                        <polygon id="Shape" points="158.55 141.67 158.38 141.63 175.84 77.98 176 78.02"></polygon>
+                        <path d="M175.92,78 L174.21,42.75" id="Shape"></path>
+                        <polygon id="Shape" points="175.83 78 174.12 42.76 174.29 42.75 176 78"></polygon>
+                        <path d="M175.92,78 L227.25,52.68" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(201.771739, 65.692116) rotate(-26.270000) translate(-201.771739, -65.692116) " x="173.151739" y="65.1921156" width="57.24" height="1"></rect>
+                        <path d="M175.92,78 L234.78,68.08" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(205.406214, 73.452816) rotate(-9.890000) translate(-205.406214, -73.452816) " x="175.561214" y="72.9528162" width="59.69" height="1"></rect>
+                        <path d="M175.92,78 L196.11,95.79" id="Shape"></path>
+                        <polygon id="Shape" points="196.05 95.86 175.86 78.06 175.97 77.94 196.16 95.73"></polygon>
+                        <path d="M175.92,78 L147.52,104.01" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(162.005386, 91.296275) rotate(-42.440000) translate(-162.005386, -91.296275) " x="142.750386" y="90.7962754" width="38.51" height="1"></rect>
+                        <path d="M175.92,78 L113.98,60.21" id="Shape"></path>
+                        <polygon id="Shape" points="175.9 78.08 113.96 60.29 114 60.12 175.94 77.92"></polygon>
+                        <path d="M175.92,78 L113.98,60.21" id="Shape"></path>
+                        <polygon id="Shape" points="175.9 78.08 113.96 60.29 114 60.12 175.94 77.92"></polygon>
+                        <path d="M125.96,122.83 L134.51,119.06" id="Shape"></path>
+                        <polygon id="Shape" points="125.99 122.91 125.92 122.75 134.48 118.99 134.55 119.14"></polygon>
+                        <path d="M125.96,122.83 L132.12,189.21" id="Shape"></path>
+                        <polygon id="Shape" points="132.03 189.22 125.87 122.84 126.04 122.82 132.2 189.21"></polygon>
+                        <path d="M125.96,122.83 L137.25,184.42" id="Shape"></path>
+                        <polygon id="Shape" points="137.17 184.44 125.87 122.84 126.04 122.81 137.33 184.41"></polygon>
+                        <path d="M125.96,122.83 L181.39,140.62" id="Shape"></path>
+                        <polygon id="Shape" points="181.37 140.7 125.93 122.91 125.98 122.75 181.42 140.54"></polygon>
+                        <path d="M125.96,122.83 L158.47,141.65" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(142.419065, 131.878670) rotate(-59.930000) translate(-142.419065, -131.878670) " x="141.919065" y="113.09867" width="1" height="37.56"></rect>
+                        <path d="M125.96,122.83 L99.27,122.49" id="Shape"></path>
+                        <polygon id="Shape" points="125.96 122.91 99.27 122.57 99.27 122.4 125.96 122.74"></polygon>
+                        <path d="M125.96,122.83 L147.52,104.01" id="Shape"></path>
+                        <polygon id="Shape" points="126.01 122.89 125.9 122.76 147.46 103.94 147.57 104.07"></polygon>
+                        <path d="M125.96,122.83 L113.98,60.21" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(120.388027, 91.436579) rotate(-10.830000) translate(-120.388027, -91.436579) " x="119.888027" y="59.5565791" width="1" height="63.76"></rect>
+                        <path d="M125.96,122.83 L113.98,60.21" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(120.388027, 91.436579) rotate(-10.830000) translate(-120.388027, -91.436579) " x="119.888027" y="59.5565791" width="1" height="63.76"></rect>
+                        <path d="M44.17,123.85 L61.28,147.13" id="Shape"></path>
+                        <polygon id="Shape" points="61.21 147.18 44.1 123.9 44.24 123.8 61.35 147.07"></polygon>
+                        <path d="M44.17,123.85 L0.71,106.75" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(22.598683, 114.915634) rotate(-68.510000) translate(-22.598683, -114.915634) " x="22.0986827" y="91.5606339" width="1" height="46.71"></rect>
+                        <path d="M44.17,123.85 L76.68,177.24" id="Shape"></path>
+                        <polygon id="Shape" points="76.61 177.28 44.1 123.9 44.24 123.81 76.75 177.19"></polygon>
+                        <path d="M44.17,123.85 L99.27,122.49" id="Shape"></path>
+                        <polygon id="Shape" points="44.17 123.94 44.17 123.77 99.26 122.4 99.27 122.57"></polygon>
+                        <path d="M44.17,123.85 L64.36,86.21" id="Shape"></path>
+                        <polygon id="Shape" points="44.25 123.89 44.1 123.81 64.29 86.17 64.44 86.25"></polygon>
+                        <path d="M103.03,160.13 L125.96,122.83" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(114.835472, 141.722427) rotate(-58.460000) translate(-114.835472, -141.722427) " x="92.9454725" y="141.222427" width="43.78" height="1"></rect>
+                        <path d="M103.03,160.13 L134.51,119.06" id="Shape"></path>
+                        <polygon id="Shape" points="103.1 160.18 102.96 160.08 134.44 119.01 134.58 119.12"></polygon>
+                        <path d="M103.03,160.13 L99.27,122.49" id="Shape"></path>
+                        <polygon id="Shape" points="102.94 160.14 99.18 122.49 99.35 122.48 103.11 160.12"></polygon>
+                        <path d="M300.14,121.12 L352.15,159.44" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(326.387308, 139.918217) rotate(-53.620000) translate(-326.387308, -139.918217) " x="325.887308" y="107.613217" width="1" height="64.61"></rect>
+                        <path d="M300.14,121.12 L287.82,71.84" id="Shape"></path>
+                        <polygon id="Shape" points="300.06 121.14 287.74 71.86 287.9 71.82 300.22 121.1"></polygon>
+                        <path d="M300.14,121.12 L310.4,94.77" id="Shape"></path>
+                        <polygon id="Shape" points="300.22 121.15 300.06 121.09 310.32 94.74 310.48 94.8"></polygon>
+                        <path d="M300.14,121.12 L341.2,92.37" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(320.904737, 107.096748) rotate(-35.040000) translate(-320.904737, -107.096748) " x="295.844737" y="106.596748" width="50.12" height="1"></rect>
+                        <path d="M300.14,121.12 L257.71,117.35" id="Shape"></path>
+                        <polygon id="Shape" points="300.13 121.2 257.7 117.44 257.71 117.27 300.14 121.03"></polygon>
+                        <path d="M300.14,121.12 L282.34,169.71" id="Shape"></path>
+                        <polygon id="Shape" points="282.42 169.74 282.26 169.68 300.06 121.09 300.22 121.15"></polygon>
+                        <circle id="Oval" cx="64.36" cy="86.21" r="1"></circle>
+                        <circle id="Oval" cx="113.98" cy="60.21" r="1"></circle>
+                        <circle id="Oval" cx="64.36" cy="86.21" r="1"></circle>
+                        <circle id="Oval" cx="113.98" cy="60.21" r="1"></circle>
+                        <circle id="Oval" cx="113.98" cy="60.21" r="1"></circle>
+                        <circle id="Oval" cx="147.52" cy="104.01" r="1"></circle>
+                        <circle id="Oval" cx="113.98" cy="60.21" r="1"></circle>
+                        <circle id="Oval" cx="147.52" cy="104.01" r="1"></circle>
+                        <circle id="Oval" cx="147.52" cy="104.01" r="1"></circle>
+                        <circle id="Oval" cx="99.27" cy="122.49" r="1"></circle>
+                        <circle id="Oval" cx="113.98" cy="60.21" r="1"></circle>
+                        <circle id="Oval" cx="99.27" cy="122.49" r="1"></circle>
+                        <circle id="Oval" cx="113.98" cy="60.21" r="1"></circle>
+                        <circle id="Oval" cx="99.27" cy="122.49" r="1"></circle>
+                        <circle id="Oval" cx="64.36" cy="86.21" r="1"></circle>
+                        <circle id="Oval" cx="99.27" cy="122.49" r="1"></circle>
+                        <circle id="Oval" cx="147.52" cy="104.01" r="1"></circle>
+                        <circle id="Oval" cx="196.11" cy="95.79" r="1"></circle>
+                        <circle id="Oval" cx="196.11" cy="95.79" r="1"></circle>
+                        <circle id="Oval" cx="234.78" cy="68.08" r="1"></circle>
+                        <circle id="Oval" cx="234.78" cy="68.08" r="1"></circle>
+                        <circle id="Oval" cx="285.08" cy="42.41" r="1"></circle>
+                        <circle id="Oval" cx="285.08" cy="42.41" r="1"></circle>
+                        <circle id="Oval" cx="227.25" cy="52.68" r="1"></circle>
+                        <circle id="Oval" cx="234.78" cy="68.08" r="1"></circle>
+                        <circle id="Oval" cx="227.25" cy="52.68" r="1"></circle>
+                        <circle id="Oval" cx="196.11" cy="95.79" r="1"></circle>
+                        <circle id="Oval" cx="227.25" cy="52.68" r="1"></circle>
+                        <circle id="Oval" cx="227.25" cy="52.68" r="1"></circle>
+                        <circle id="Oval" cx="174.21" cy="42.75" r="1"></circle>
+                        <circle id="Oval" cx="234.78" cy="68.08" r="1"></circle>
+                        <circle id="Oval" cx="174.21" cy="42.75" r="1"></circle>
+                        <circle id="Oval" cx="196.11" cy="95.79" r="1"></circle>
+                        <circle id="Oval" cx="174.21" cy="42.75" r="1"></circle>
+                        <circle id="Oval" cx="147.52" cy="104.01" r="1"></circle>
+                        <circle id="Oval" cx="174.21" cy="42.75" r="1"></circle>
+                        <circle id="Oval" cx="113.98" cy="60.21" r="1"></circle>
+                        <circle id="Oval" cx="174.21" cy="42.75" r="1"></circle>
+                        <circle id="Oval" cx="113.98" cy="60.21" r="1"></circle>
+                        <circle id="Oval" cx="174.21" cy="42.75" r="1"></circle>
+                        <circle id="Oval" cx="196.11" cy="95.79" r="1"></circle>
+                        <circle id="Oval" cx="99.27" cy="122.49" r="1"></circle>
+                        <circle id="Oval" cx="147.52" cy="104.01" r="1"></circle>
+                        <circle id="Oval" cx="257.71" cy="117.35" r="1"></circle>
+                        <circle id="Oval" cx="257.71" cy="117.35" r="1"></circle>
+                        <circle id="Oval" cx="234.78" cy="68.08" r="1"></circle>
+                        <circle id="Oval" cx="257.71" cy="117.35" r="1"></circle>
+                        <circle id="Oval" cx="196.11" cy="95.79" r="1"></circle>
+                        <circle id="Oval" cx="257.71" cy="117.35" r="1"></circle>
+                        <circle id="Oval" cx="196.11" cy="95.79" r="1"></circle>
+                        <circle id="Oval" cx="147.52" cy="104.01" r="1"></circle>
+                        <circle id="Oval" cx="398.35" cy="37.28" r="1"></circle>
+                        <circle id="Oval" cx="412.04" cy="102.98" r="1"></circle>
+                        <circle id="Oval" cx="370.8" cy="36.42" r="1"></circle>
+                        <circle id="Oval" cx="346.68" cy="50.28" r="1"></circle>
+                        <circle id="Oval" cx="310.4" cy="94.77" r="1"></circle>
+                        <circle id="Oval" cx="346.68" cy="50.28" r="1"></circle>
+                        <circle id="Oval" cx="398.35" cy="37.28" r="1"></circle>
+                        <circle id="Oval" cx="346.68" cy="50.28" r="1"></circle>
+                        <circle id="Oval" cx="341.2" cy="92.37" r="1"></circle>
+                        <circle id="Oval" cx="346.68" cy="50.28" r="1"></circle>
+                        <circle id="Oval" cx="285.08" cy="42.41" r="1"></circle>
+                        <circle id="Oval" cx="346.68" cy="50.28" r="1"></circle>
+                        <circle id="Oval" cx="346.68" cy="50.28" r="1"></circle>
+                        <circle id="Oval" cx="287.82" cy="71.84" r="1"></circle>
+                        <circle id="Oval" cx="310.4" cy="94.77" r="1"></circle>
+                        <circle id="Oval" cx="287.82" cy="71.84" r="1"></circle>
+                        <circle id="Oval" cx="341.2" cy="92.37" r="1"></circle>
+                        <circle id="Oval" cx="287.82" cy="71.84" r="1"></circle>
+                        <circle id="Oval" cx="257.71" cy="117.35" r="1"></circle>
+                        <circle id="Oval" cx="287.82" cy="71.84" r="1"></circle>
+                        <circle id="Oval" cx="227.25" cy="52.68" r="1"></circle>
+                        <circle id="Oval" cx="287.82" cy="71.84" r="1"></circle>
+                        <circle id="Oval" cx="285.08" cy="42.41" r="1"></circle>
+                        <circle id="Oval" cx="287.82" cy="71.84" r="1"></circle>
+                        <circle id="Oval" cx="234.78" cy="68.08" r="1"></circle>
+                        <circle id="Oval" cx="287.82" cy="71.84" r="1"></circle>
+                        <circle id="Oval" cx="370.8" cy="36.42" r="1"></circle>
+                        <circle id="Oval" cx="395.61" cy="1.69" r="1"></circle>
+                        <circle id="Oval" cx="398.35" cy="37.28" r="1"></circle>
+                        <circle id="Oval" cx="395.61" cy="1.69" r="1"></circle>
+                        <circle id="Oval" cx="341.2" cy="92.37" r="1"></circle>
+                        <circle id="Oval" cx="393.22" cy="114.96" r="1"></circle>
+                        <circle id="Oval" cx="412.04" cy="102.98" r="1"></circle>
+                        <circle id="Oval" cx="393.22" cy="114.96" r="1"></circle>
+                        <circle id="Oval" cx="341.2" cy="92.37" r="1"></circle>
+                        <circle id="Oval" cx="393.22" cy="114.96" r="1"></circle>
+                        <circle id="Oval" cx="99.27" cy="122.49" r="1"></circle>
+                        <circle id="Oval" cx="64.36" cy="86.21" r="1"></circle>
+                        <circle id="Oval" cx="0.71" cy="106.75" r="1"></circle>
+                        <circle id="Oval" cx="99.27" cy="122.49" r="1"></circle>
+                        <circle id="Oval" cx="64.36" cy="86.21" r="1"></circle>
+                        <circle id="Oval" cx="257.71" cy="117.35" r="1"></circle>
+                        <circle id="Oval" cx="196.11" cy="95.79" r="1"></circle>
+                        <circle id="Oval" cx="175.92" cy="78" r="1"></circle>
+                        <circle id="Oval" cx="175.92" cy="78" r="1"></circle>
+                        <circle id="Oval" cx="174.21" cy="42.75" r="1"></circle>
+                        <circle id="Oval" cx="175.92" cy="78" r="1"></circle>
+                        <circle id="Oval" cx="227.25" cy="52.68" r="1"></circle>
+                        <circle id="Oval" cx="175.92" cy="78" r="1"></circle>
+                        <circle id="Oval" cx="234.78" cy="68.08" r="1"></circle>
+                        <circle id="Oval" cx="175.92" cy="78" r="1"></circle>
+                        <circle id="Oval" cx="196.11" cy="95.79" r="1"></circle>
+                        <circle id="Oval" cx="175.92" cy="78" r="1"></circle>
+                        <circle id="Oval" cx="147.52" cy="104.01" r="1"></circle>
+                        <circle id="Oval" cx="175.92" cy="78" r="1"></circle>
+                        <circle id="Oval" cx="113.98" cy="60.21" r="1"></circle>
+                        <circle id="Oval" cx="175.92" cy="78" r="1"></circle>
+                        <circle id="Oval" cx="113.98" cy="60.21" r="1"></circle>
+                        <circle id="Oval" cx="175.92" cy="78" r="1"></circle>
+                        <circle id="Oval" cx="134.51" cy="119.06" r="1"></circle>
+                        <circle id="Oval" cx="125.96" cy="122.83" r="1"></circle>
+                        <circle id="Oval" cx="125.96" cy="122.83" r="1"></circle>
+                        <circle id="Oval" cx="125.96" cy="122.83" r="1"></circle>
+                        <circle id="Oval" cx="125.96" cy="122.83" r="1"></circle>
+                        <circle id="Oval" cx="125.96" cy="122.83" r="1"></circle>
+                        <circle id="Oval" cx="99.27" cy="122.49" r="1"></circle>
+                        <circle id="Oval" cx="125.96" cy="122.83" r="1"></circle>
+                        <circle id="Oval" cx="147.52" cy="104.01" r="1"></circle>
+                        <circle id="Oval" cx="125.96" cy="122.83" r="1"></circle>
+                        <circle id="Oval" cx="113.98" cy="60.21" r="1"></circle>
+                        <circle id="Oval" cx="125.96" cy="122.83" r="1"></circle>
+                        <circle id="Oval" cx="113.98" cy="60.21" r="1"></circle>
+                        <circle id="Oval" cx="125.96" cy="122.83" r="1"></circle>
+                        <circle id="Oval" cx="44.17" cy="123.85" r="1"></circle>
+                        <circle id="Oval" cx="0.71" cy="106.75" r="1"></circle>
+                        <circle id="Oval" cx="44.17" cy="123.85" r="1"></circle>
+                        <circle id="Oval" cx="44.17" cy="123.85" r="1"></circle>
+                        <circle id="Oval" cx="99.27" cy="122.49" r="1"></circle>
+                        <circle id="Oval" cx="44.17" cy="123.85" r="1"></circle>
+                        <circle id="Oval" cx="64.36" cy="86.21" r="1"></circle>
+                        <circle id="Oval" cx="44.17" cy="123.85" r="1"></circle>
+                        <circle id="Oval" cx="125.96" cy="122.83" r="1"></circle>
+                        <circle id="Oval" cx="134.51" cy="119.06" r="1"></circle>
+                        <circle id="Oval" cx="99.27" cy="122.49" r="1"></circle>
+                        <circle id="Oval" cx="300.14" cy="121.12" r="1"></circle>
+                        <circle id="Oval" cx="287.82" cy="71.84" r="1"></circle>
+                        <circle id="Oval" cx="300.14" cy="121.12" r="1"></circle>
+                        <circle id="Oval" cx="310.4" cy="94.77" r="1"></circle>
+                        <circle id="Oval" cx="300.14" cy="121.12" r="1"></circle>
+                        <circle id="Oval" cx="341.2" cy="92.37" r="1"></circle>
+                        <circle id="Oval" cx="300.14" cy="121.12" r="1"></circle>
+                        <circle id="Oval" cx="257.71" cy="117.35" r="1"></circle>
+                        <circle id="Oval" cx="300.14" cy="121.12" r="1"></circle>
+                        <circle id="Oval" cx="300.14" cy="121.12" r="1"></circle>
+                    </g>
+                    <g id="Group" opacity="0.9" style="mix-blend-mode: multiply;" transform="translate(222.000000, 0.000000)">
+                        <path d="M398.77,189.49 L449.1,255.22" id="Shape"></path>
+                        <polygon id="Shape" points="398.88 189.41 449.2 255.14 449 255.3 398.67 189.56"></polygon>
+                        <path d="M398.77,189.49 L449.1,255.22" id="Shape"></path>
+                        <polygon id="Shape" points="398.88 189.41 449.2 255.14 449 255.3 398.67 189.56"></polygon>
+                        <path d="M471.18,161.75 L398.77,189.49" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(435.107386, 175.916604) rotate(-20.920000) translate(-435.107386, -175.916604) " x="396.337386" y="175.416604" width="77.54" height="1"></rect>
+                        <path d="M325.85,201.81 L398.77,189.49" id="Shape"></path>
+                        <polygon id="Shape" points="398.75 189.36 398.79 189.61 325.87 201.94 325.83 201.69"></polygon>
+                        <path d="M267.82,243.41 L325.85,201.81" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(297.064536, 222.929522) rotate(-35.750000) translate(-297.064536, -222.929522) " x="261.364536" y="222.429522" width="71.4" height="1"></rect>
+                        <path d="M192.33,281.92 L267.82,243.41" id="Shape"></path>
+                        <polygon id="Shape" points="267.76 243.29 267.88 243.52 192.39 282.04 192.27 281.81"></polygon>
+                        <path d="M279.12,266.52 L267.82,243.41" id="Shape"></path>
+                        <polygon id="Shape" points="267.94 243.35 279.23 266.46 279 266.57 267.7 243.46"></polygon>
+                        <path d="M279.12,266.52 L325.85,201.81" id="Shape"></path>
+                        <polygon id="Shape" points="325.75 201.74 325.96 201.89 279.22 266.59 279.01 266.44"></polygon>
+                        <path d="M358.72,281.41 L267.82,243.41" id="Shape"></path>
+                        <polygon id="Shape" points="267.87 243.29 358.77 281.29 358.67 281.53 267.77 243.53"></polygon>
+                        <path d="M358.72,281.41 L325.85,201.81" id="Shape"></path>
+                        <polygon id="Shape" points="325.97 201.76 358.84 281.36 358.6 281.46 325.73 201.86"></polygon>
+                        <path d="M358.72,281.41 L398.77,189.49" id="Shape"></path>
+                        <polygon id="Shape" points="398.66 189.44 398.89 189.54 358.83 281.46 358.6 281.36"></polygon>
+                        <path d="M358.72,281.41 L449.1,255.22" id="Shape"></path>
+                        <polygon id="Shape" points="449.07 255.1 449.14 255.34 358.75 281.53 358.68 281.29"></polygon>
+                        <path d="M358.72,281.41 L449.1,255.22" id="Shape"></path>
+                        <polygon id="Shape" points="449.07 255.1 449.14 255.34 358.75 281.53 358.68 281.29"></polygon>
+                        <path d="M382.34,133 L325.85,201.81" id="Shape"></path>
+                        <polygon id="Shape" points="382.24 132.91 382.44 133.08 325.95 201.89 325.75 201.73"></polygon>
+                        <path d="M382.34,133 L471.18,161.75" id="Shape"></path>
+                        <polygon id="Shape" points="382.38 132.87 471.22 161.63 471.14 161.88 382.3 133.12"></polygon>
+                        <path d="M382.34,133 L398.77,189.49" id="Shape"></path>
+                        <polygon id="Shape" points="382.46 132.96 398.9 189.45 398.65 189.52 382.22 133.03"></polygon>
+                        <path d="M349.99,54.42 L273.98,112.45" id="Shape"></path>
+                        <polygon id="Shape" points="349.91 54.32 350.07 54.52 274.06 112.56 273.9 112.35"></polygon>
+                        <path d="M349.99,54.42 L382.34,133" id="Shape"></path>
+                        <polygon id="Shape" points="350.11 54.38 382.46 132.95 382.22 133.04 349.87 54.47"></polygon>
+                        <path d="M349.99,54.42 L273.98,112.45" id="Shape"></path>
+                        <polygon id="Shape" points="349.91 54.32 350.07 54.52 274.06 112.56 273.9 112.35"></polygon>
+                        <path d="M349.99,54.42 L382.34,133" id="Shape"></path>
+                        <polygon id="Shape" points="350.11 54.38 382.46 132.95 382.22 133.04 349.87 54.47"></polygon>
+                        <path d="M196.44,90.89 L273.98,112.45" id="Shape"></path>
+                        <polygon id="Shape" points="196.47 90.76 274.02 112.33 273.95 112.58 196.4 91.01"></polygon>
+                        <path d="M233.41,169.46 L196.44,90.89" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(215.263002, 130.018399) rotate(-25.200000) translate(-215.263002, -130.018399) " x="214.763002" y="86.5983991" width="1" height="86.84"></rect>
+                        <path d="M233.41,169.46 L273.98,112.45" id="Shape"></path>
+                        <polygon id="Shape" points="273.88 112.38 274.09 112.53 233.52 169.53 233.31 169.38"></polygon>
+                        <path d="M233.41,169.46 L267.82,243.41" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(250.952932, 206.281778) rotate(-24.950000) translate(-250.952932, -206.281778) " x="250.452932" y="165.501778" width="1" height="81.56"></rect>
+                        <path d="M233.41,169.46 L325.85,201.81" id="Shape"></path>
+                        <polygon id="Shape" points="233.45 169.34 325.89 201.69 325.81 201.93 233.37 169.58"></polygon>
+                        <path d="M347.93,134.54 L349.99,54.42" id="Shape"></path>
+                        <polygon id="Shape" points="349.86 54.42 350.12 54.43 348.06 134.54 347.8 134.53"></polygon>
+                        <path d="M347.93,134.54 L349.99,54.42" id="Shape"></path>
+                        <polygon id="Shape" points="349.86 54.42 350.12 54.43 348.06 134.54 347.8 134.53"></polygon>
+                        <path d="M347.93,134.54 L273.98,112.45" id="Shape"></path>
+                        <polygon id="Shape" points="274.02 112.33 347.97 134.41 347.9 134.66 273.94 112.58"></polygon>
+                        <path d="M347.93,134.54 L382.34,133" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(365.158227, 134.126129) rotate(-2.610000) translate(-365.158227, -134.126129) " x="347.938227" y="133.626129" width="34.44" height="1"></rect>
+                        <path d="M347.93,134.54 L325.85,201.81" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(337.269963, 168.297455) rotate(-71.830000) translate(-337.269963, -168.297455) " x="301.864963" y="167.797455" width="70.81" height="1"></rect>
+                        <path d="M347.93,134.54 L398.77,189.49" id="Shape"></path>
+                        <polygon id="Shape" points="348.03 134.45 398.87 189.4 398.68 189.57 347.84 134.62"></polygon>
+                        <path d="M1.81,191.03 L22.35,289.63" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(12.445916, 240.245022) rotate(-11.770000) translate(-12.445916, -240.245022) " x="11.9459165" y="189.885022" width="1" height="100.72"></rect>
+                        <path d="M99.89,270.11 L154.33,203.35" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(127.400585, 236.962835) rotate(-50.690000) translate(-127.400585, -236.962835) " x="84.3305853" y="236.462835" width="86.14" height="1"></rect>
+                        <path d="M99.89,270.11 L108.11,206.95" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(105.381000, 240.357000) rotate(-82.519114) translate(-105.381000, -240.357000) " x="73.5788109" y="239.857751" width="63.6043782" height="1"></rect>
+                        <path d="M188.22,237.76 L99.89,270.11" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(143.737100, 255.282700) rotate(-19.885165) translate(-143.737100, -255.282700) " x="96.7209178" y="254.7829" width="94.0323645" height="1"></rect>
+                        <path d="M188.22,237.76 L154.33,203.35" id="Shape"></path>
+                        <polygon id="Shape" points="154.42 203.26 188.31 237.67 188.13 237.85 154.24 203.44"></polygon>
+                        <path d="M188.22,237.76 L108.11,206.95" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(148.305733, 222.022077) rotate(-68.960000) translate(-148.305733, -222.022077) " x="147.805733" y="179.107077" width="1" height="85.83"></rect>
+                        <path d="M188.22,237.76 L233.41,169.46" id="Shape"></path>
+                        <polygon id="Shape" points="233.31 169.39 233.52 169.53 188.33 237.83 188.11 237.69"></polygon>
+                        <path d="M188.22,237.76 L279.12,266.52" id="Shape"></path>
+                        <polygon id="Shape" points="188.26 237.64 279.16 266.39 279.08 266.64 188.18 237.88"></polygon>
+                        <path d="M188.22,237.76 L192.33,281.92" id="Shape"></path>
+                        <polygon id="Shape" points="188.35 237.75 192.46 281.91 192.2 281.94 188.09 237.77"></polygon>
+                        <path d="M188.22,237.76 L267.82,243.41" id="Shape"></path>
+                        <polygon id="Shape" points="188.23 237.63 267.83 243.28 267.81 243.53 188.21 237.89"></polygon>
+                        <path d="M91.68,106.29 L108.11,206.95" id="Shape"></path>
+                        <polygon id="Shape" points="91.8 106.27 108.24 206.93 107.98 206.97 91.55 106.31"></polygon>
+                        <path d="M30.05,173.05 L91.68,106.29" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(61.125246, 139.901544) rotate(-47.300000) translate(-61.125246, -139.901544) " x="15.7002457" y="139.401544" width="90.85" height="1"></rect>
+                        <path d="M30.05,173.05 L1.81,191.03" id="Shape"></path>
+                        <polygon id="Shape" points="29.98 172.94 30.12 173.16 1.87 191.13 1.74 190.92"></polygon>
+                        <path d="M30.05,173.05 L108.11,206.95" id="Shape"></path>
+                        <polygon id="Shape" points="30.1 172.93 108.16 206.83 108.06 207.06 30 173.17"></polygon>
+                        <path d="M421.88,61.61 L382.34,133" id="Shape"></path>
+                        <polygon id="Shape" points="421.77 61.55 421.99 61.68 382.45 133.06 382.23 132.93"></polygon>
+                        <path d="M247.28,35.94 L273.98,112.45" id="Shape"></path>
+                        <polygon id="Shape" points="247.4 35.89 274.1 112.41 273.86 112.5 247.16 35.98"></polygon>
+                        <path d="M271.42,139.16 L347.93,134.54" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(309.705394, 137.203562) rotate(-3.490000) translate(-309.705394, -137.203562) " x="271.375394" y="136.703562" width="76.66" height="1"></rect>
+                        <path d="M271.42,139.16 L233.41,169.46" id="Shape"></path>
+                        <polygon id="Shape" points="271.33 139.06 271.5 139.26 233.49 169.56 233.33 169.36"></polygon>
+                        <path d="M271.42,139.16 L196.44,90.89" id="Shape"></path>
+                        <polygon id="Shape" points="196.51 90.78 271.48 139.05 271.35 139.27 196.37 90.99"></polygon>
+                        <path d="M271.42,139.16 L273.98,112.45" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(273.084270, 125.835586) rotate(-84.550000) translate(-273.084270, -125.835586) " x="259.66927" y="125.335586" width="26.83" height="1"></rect>
+                        <path d="M271.42,139.16 L325.85,201.81" id="Shape"></path>
+                        <polygon id="Shape" points="271.51 139.07 325.95 201.73 325.75 201.89 271.32 139.24"></polygon>
+                        <path d="M356.15,228.51 L347.93,134.54" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(352.411267, 181.463704) rotate(-5.000000) translate(-352.411267, -181.463704) " x="351.911267" y="134.293704" width="1" height="94.34"></rect>
+                        <path d="M356.15,228.51 L382.34,133" id="Shape"></path>
+                        <polygon id="Shape" points="382.22 132.96 382.47 133.03 356.27 228.55 356.02 228.48"></polygon>
+                        <path d="M356.15,228.51 L358.72,281.41" id="Shape"></path>
+                        <polygon id="Shape" points="356.28 228.51 358.85 281.4 358.59 281.42 356.02 228.52"></polygon>
+                        <path d="M356.15,228.51 L279.12,266.52" id="Shape"></path>
+                        <polygon id="Shape" points="356.09 228.4 356.21 228.63 279.18 266.63 279.06 266.4"></polygon>
+                        <path d="M356.15,228.51 L267.82,243.41" id="Shape"></path>
+                        <polygon id="Shape" points="356.13 228.39 356.17 228.64 267.84 243.53 267.8 243.28"></polygon>
+                        <path d="M356.15,228.51 L325.85,201.81" id="Shape"></path>
+                        <polygon id="Shape" points="325.94 201.71 356.23 228.42 356.07 228.61 325.77 201.91"></polygon>
+                        <path d="M356.15,228.51 L398.77,189.49" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(377.689650, 209.228541) rotate(-42.530000) translate(-377.689650, -209.228541) " x="348.79465" y="208.728541" width="57.79" height="1"></rect>
+                        <path d="M356.15,228.51 L449.1,255.22" id="Shape"></path>
+                        <polygon id="Shape" points="356.19 228.39 449.14 255.1 449.07 255.34 356.11 228.64"></polygon>
+                        <path d="M356.15,228.51 L449.1,255.22" id="Shape"></path>
+                        <polygon id="Shape" points="356.19 228.39 449.14 255.1 449.07 255.34 356.11 228.64"></polygon>
+                        <path d="M431.13,161.24 L418.29,166.89" id="Shape"></path>
+                        <polygon id="Shape" points="431.07 161.12 431.18 161.36 418.34 167.01 418.24 166.77"></polygon>
+                        <path d="M431.13,161.24 L421.88,61.61" id="Shape"></path>
+                        <polygon id="Shape" points="422.01 61.6 431.25 161.23 431 161.25 421.76 61.63"></polygon>
+                        <path d="M431.13,161.24 L414.18,68.8" id="Shape"></path>
+                        <polygon id="Shape" points="414.31 68.78 431.25 161.22 431 161.26 414.05 68.83"></polygon>
+                        <path d="M431.13,161.24 L347.93,134.54" id="Shape"></path>
+                        <polygon id="Shape" points="347.97 134.41 431.17 161.12 431.09 161.36 347.89 134.66"></polygon>
+                        <path d="M431.13,161.24 L382.34,133" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(406.929921, 146.809105) rotate(-59.930000) translate(-406.929921, -146.809105) " x="406.429921" y="118.624105" width="1" height="56.37"></rect>
+                        <path d="M431.13,161.24 L471.18,161.75" id="Shape"></path>
+                        <polygon id="Shape" points="431.13 161.11 471.18 161.63 471.18 161.88 431.13 161.37"></polygon>
+                        <path d="M431.13,161.24 L398.77,189.49" id="Shape"></path>
+                        <polygon id="Shape" points="431.04 161.14 431.21 161.34 398.86 189.58 398.69 189.39"></polygon>
+                        <path d="M431.13,161.24 L449.1,255.22" id="Shape"></path>
+                        <polygon id="Shape" points="431.25 161.22 449.23 255.19 448.98 255.24 431 161.26"></polygon>
+                        <path d="M431.13,161.24 L449.1,255.22" id="Shape"></path>
+                        <polygon id="Shape" points="431.25 161.22 449.23 255.19 448.98 255.24 431 161.26"></polygon>
+                        <path d="M465.53,105.26 L431.13,161.24" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(448.672742, 133.464582) rotate(-58.600000) translate(-448.672742, -133.464582) " x="415.822742" y="132.964582" width="65.7" height="1"></rect>
+                        <path d="M465.53,105.26 L418.29,166.89" id="Shape"></path>
+                        <polygon id="Shape" points="465.43 105.19 465.64 105.34 418.39 166.97 418.19 166.81"></polygon>
+                        <path d="M465.53,105.26 L421.88,61.61" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(443.972926, 83.173556) rotate(-45.000000) translate(-443.972926, -83.173556) " x="443.472926" y="52.3085559" width="1" height="61.73"></rect>
+                        <path d="M465.53,105.26 L413.99,68.8" id="Shape"></path>
+                        <polygon id="Shape" points="414.06 68.7 465.61 105.16 465.46 105.37 413.91 68.91"></polygon>
+                        <path d="M465.53,105.26 L382.34,133" id="Shape"></path>
+                        <polygon id="Shape" points="465.49 105.14 465.57 105.39 382.38 133.12 382.3 132.87"></polygon>
+                        <path d="M169.73,163.81 L91.68,106.29" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(130.457700, 132.574700) rotate(-53.930590) translate(-130.457700, -132.574700) " x="129.956651" y="83.9929987" width="1" height="97.1634027"></rect>
+                        <path d="M169.73,163.81 L188.22,237.76" id="Shape"></path>
+                        <polygon id="Shape" points="169.86 163.78 188.35 237.73 188.1 237.79 169.61 163.84"></polygon>
+                        <path d="M169.73,163.81 L154.33,203.35" id="Shape"></path>
+                        <polygon id="Shape" points="169.61 163.76 169.85 163.86 154.45 203.4 154.21 203.31"></polygon>
+                        <path d="M169.73,163.81 L108.11,206.95" id="Shape"></path>
+                        <polygon id="Shape" points="169.66 163.7 169.81 163.91 108.18 207.05 108.04 206.84"></polygon>
+                        <path d="M169.73,163.81 L233.41,169.46" id="Shape"></path>
+                        <polygon id="Shape" points="169.74 163.68 233.42 169.33 233.4 169.59 169.72 163.94"></polygon>
+                        <path d="M169.73,163.81 L196.44,90.89" id="Shape"></path>
+                        <polygon id="Shape" points="196.32 90.84 196.56 90.93 169.85 163.85 169.61 163.76"></polygon>
+                        <circle id="Oval" cx="398.77" cy="189.49" r="1.07"></circle>
+                        <circle id="Oval" cx="398.77" cy="189.49" r="1.07"></circle>
+                        <circle id="Oval" cx="398.77" cy="189.49" r="1.07"></circle>
+                        <circle id="Oval" cx="398.77" cy="189.49" r="1.07"></circle>
+                        <circle id="Oval" cx="325.85" cy="201.81" r="1.07"></circle>
+                        <circle id="Oval" cx="325.85" cy="201.81" r="1.07"></circle>
+                        <circle id="Oval" cx="267.82" cy="243.41" r="1.07"></circle>
+                        <circle id="Oval" cx="267.82" cy="243.41" r="1.07"></circle>
+                        <circle id="Oval" cx="267.82" cy="243.41" r="1.07"></circle>
+                        <circle id="Oval" cx="325.85" cy="201.81" r="1.07"></circle>
+                        <circle id="Oval" cx="267.82" cy="243.41" r="1.07"></circle>
+                        <circle id="Oval" cx="325.85" cy="201.81" r="1.07"></circle>
+                        <circle id="Oval" cx="398.77" cy="189.49" r="1.07"></circle>
+                        <circle id="Oval" cx="325.85" cy="201.81" r="1.07"></circle>
+                        <circle id="Oval" cx="382.34" cy="133" r="1.07"></circle>
+                        <circle id="Oval" cx="382.34" cy="133" r="1.07"></circle>
+                        <circle id="Oval" cx="398.77" cy="189.49" r="1.07"></circle>
+                        <circle id="Oval" cx="382.34" cy="133" r="1.07"></circle>
+                        <circle id="Oval" cx="273.98" cy="112.45" r="1.07"></circle>
+                        <circle id="Oval" cx="382.34" cy="133" r="1.07"></circle>
+                        <circle id="Oval" cx="273.98" cy="112.45" r="1.07"></circle>
+                        <circle id="Oval" cx="382.34" cy="133" r="1.07"></circle>
+                        <circle id="Oval" cx="273.98" cy="112.45" r="1.07"></circle>
+                        <circle id="Oval" cx="233.41" cy="169.46" r="1.07"></circle>
+                        <circle id="Oval" cx="273.98" cy="112.45" r="1.07"></circle>
+                        <circle id="Oval" cx="233.41" cy="169.46" r="1.07"></circle>
+                        <circle id="Oval" cx="267.82" cy="243.41" r="1.07"></circle>
+                        <circle id="Oval" cx="233.41" cy="169.46" r="1.07"></circle>
+                        <circle id="Oval" cx="325.85" cy="201.81" r="1.07"></circle>
+                        <circle id="Oval" cx="233.41" cy="169.46" r="1.07"></circle>
+                        <circle id="Oval" cx="347.93" cy="134.54" r="1.07"></circle>
+                        <circle id="Oval" cx="347.93" cy="134.54" r="1.07"></circle>
+                        <circle id="Oval" cx="273.98" cy="112.45" r="1.07"></circle>
+                        <circle id="Oval" cx="347.93" cy="134.54" r="1.07"></circle>
+                        <circle id="Oval" cx="382.34" cy="133" r="1.07"></circle>
+                        <circle id="Oval" cx="347.93" cy="134.54" r="1.07"></circle>
+                        <circle id="Oval" cx="325.85" cy="201.81" r="1.07"></circle>
+                        <circle id="Oval" cx="347.93" cy="134.54" r="1.07"></circle>
+                        <circle id="Oval" cx="398.77" cy="189.49" r="1.07"></circle>
+                        <circle id="Oval" cx="347.93" cy="134.54" r="1.07"></circle>
+                        <circle id="Oval" cx="1.81" cy="191.03" r="1.07"></circle>
+                        <circle id="Oval" cx="154.33" cy="203.35" r="1.07"></circle>
+                        <circle id="Oval" cx="108.11" cy="206.95" r="1.07"></circle>
+                        <circle id="Oval" cx="188.22" cy="237.76" r="1.07"></circle>
+                        <circle id="Oval" cx="154.33" cy="203.35" r="1.07"></circle>
+                        <circle id="Oval" cx="188.22" cy="237.76" r="1.07"></circle>
+                        <circle id="Oval" cx="108.11" cy="206.95" r="1.07"></circle>
+                        <circle id="Oval" cx="188.22" cy="237.76" r="1.07"></circle>
+                        <circle id="Oval" cx="233.41" cy="169.46" r="1.07"></circle>
+                        <circle id="Oval" cx="188.22" cy="237.76" r="1.07"></circle>
+                        <circle id="Oval" cx="188.22" cy="237.76" r="1.07"></circle>
+                        <circle id="Oval" cx="188.22" cy="237.76" r="1.07"></circle>
+                        <circle id="Oval" cx="267.82" cy="243.41" r="1.07"></circle>
+                        <circle id="Oval" cx="188.22" cy="237.76" r="1.07"></circle>
+                        <circle id="Oval" cx="108.11" cy="206.95" r="1.07"></circle>
+                        <circle id="Oval" cx="91.68" cy="106.29" r="1.07"></circle>
+                        <circle id="Oval" cx="91.68" cy="106.29" r="1.07"></circle>
+                        <circle id="Oval" cx="30.05" cy="173.05" r="1.07"></circle>
+                        <circle id="Oval" cx="1.81" cy="191.03" r="1.07"></circle>
+                        <circle id="Oval" cx="30.05" cy="173.05" r="1.07"></circle>
+                        <circle id="Oval" cx="108.11" cy="206.95" r="1.07"></circle>
+                        <circle id="Oval" cx="30.05" cy="173.05" r="1.07"></circle>
+                        <circle id="Oval" cx="382.34" cy="133" r="1.07"></circle>
+                        <circle id="Oval" cx="273.98" cy="112.45" r="1.07"></circle>
+                        <circle id="Oval" cx="347.93" cy="134.54" r="1.07"></circle>
+                        <circle id="Oval" cx="271.42" cy="139.16" r="1.07"></circle>
+                        <circle id="Oval" cx="233.41" cy="169.46" r="1.07"></circle>
+                        <circle id="Oval" cx="271.42" cy="139.16" r="1.07"></circle>
+                        <circle id="Oval" cx="271.42" cy="139.16" r="1.07"></circle>
+                        <circle id="Oval" cx="273.98" cy="112.45" r="1.07"></circle>
+                        <circle id="Oval" cx="271.42" cy="139.16" r="1.07"></circle>
+                        <circle id="Oval" cx="325.85" cy="201.81" r="1.07"></circle>
+                        <circle id="Oval" cx="271.42" cy="139.16" r="1.07"></circle>
+                        <circle id="Oval" cx="347.93" cy="134.54" r="1.07"></circle>
+                        <circle id="Oval" cx="356.15" cy="228.51" r="1.07"></circle>
+                        <circle id="Oval" cx="382.34" cy="133" r="1.07"></circle>
+                        <circle id="Oval" cx="356.15" cy="228.51" r="1.07"></circle>
+                        <circle id="Oval" cx="356.15" cy="228.51" r="1.07"></circle>
+                        <circle id="Oval" cx="356.15" cy="228.51" r="1.07"></circle>
+                        <circle id="Oval" cx="267.82" cy="243.41" r="1.07"></circle>
+                        <circle id="Oval" cx="356.15" cy="228.51" r="1.07"></circle>
+                        <circle id="Oval" cx="325.85" cy="201.81" r="1.07"></circle>
+                        <circle id="Oval" cx="356.15" cy="228.51" r="1.07"></circle>
+                        <circle id="Oval" cx="398.77" cy="189.49" r="1.07"></circle>
+                        <circle id="Oval" cx="356.15" cy="228.51" r="1.07"></circle>
+                        <circle id="Oval" cx="356.15" cy="228.51" r="1.07"></circle>
+                        <circle id="Oval" cx="356.15" cy="228.51" r="1.07"></circle>
+                        <circle id="Oval" cx="418.29" cy="166.89" r="1.07"></circle>
+                        <circle id="Oval" cx="431.13" cy="161.24" r="1.07"></circle>
+                        <circle id="Oval" cx="431.13" cy="161.24" r="1.07"></circle>
+                        <circle id="Oval" cx="431.13" cy="161.24" r="1.07"></circle>
+                        <circle id="Oval" cx="347.93" cy="134.54" r="1.07"></circle>
+                        <circle id="Oval" cx="431.13" cy="161.24" r="1.07"></circle>
+                        <circle id="Oval" cx="382.34" cy="133" r="1.07"></circle>
+                        <circle id="Oval" cx="431.13" cy="161.24" r="1.07"></circle>
+                        <circle id="Oval" cx="431.13" cy="161.24" r="1.07"></circle>
+                        <circle id="Oval" cx="398.77" cy="189.49" r="1.07"></circle>
+                        <circle id="Oval" cx="431.13" cy="161.24" r="1.07"></circle>
+                        <circle id="Oval" cx="431.13" cy="161.24" r="1.07"></circle>
+                        <circle id="Oval" cx="431.13" cy="161.24" r="1.07"></circle>
+                        <circle id="Oval" cx="431.13" cy="161.24" r="1.07"></circle>
+                        <circle id="Oval" cx="418.29" cy="166.89" r="1.07"></circle>
+                        <circle id="Oval" cx="382.34" cy="133" r="1.07"></circle>
+                        <circle id="Oval" cx="91.68" cy="106.29" r="1.07"></circle>
+                        <circle id="Oval" cx="169.73" cy="163.81" r="1.07"></circle>
+                        <circle id="Oval" cx="188.22" cy="237.76" r="1.07"></circle>
+                        <circle id="Oval" cx="169.73" cy="163.81" r="1.07"></circle>
+                        <circle id="Oval" cx="154.33" cy="203.35" r="1.07"></circle>
+                        <circle id="Oval" cx="169.73" cy="163.81" r="1.07"></circle>
+                        <circle id="Oval" cx="108.11" cy="206.95" r="1.07"></circle>
+                        <circle id="Oval" cx="169.73" cy="163.81" r="1.07"></circle>
+                        <circle id="Oval" cx="233.41" cy="169.46" r="1.07"></circle>
+                        <circle id="Oval" cx="169.73" cy="163.81" r="1.07"></circle>
+                        <circle id="Oval" cx="169.73" cy="163.81" r="1.07"></circle>
+                    </g>
+                    <g id="Group" opacity="0.1" style="mix-blend-mode: multiply;" transform="translate(149.000000, 42.000000)">
+                        <path d="M282.33,88.76 L285.1,29.75" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(284.118411, 59.269071) rotate(-87.310000) translate(-284.118411, -59.269071) " x="254.583411" y="58.7690709" width="59.07" height="1"></rect>
+                        <path d="M282.33,88.76 L285.1,29.75" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(284.118411, 59.269071) rotate(-87.310000) translate(-284.118411, -59.269071) " x="254.583411" y="58.7690709" width="59.07" height="1"></rect>
+                        <path d="M336.06,75.57 L282.33,88.76" id="Shape"></path>
+                        <polygon id="Shape" points="336.08 75.66 336.04 75.48 282.31 88.67 282.35 88.84"></polygon>
+                        <path d="M336.06,75.57 L285.1,29.75" id="Shape"></path>
+                        <polygon id="Shape" points="336 75.64 336.12 75.5 285.16 29.68 285.04 29.82"></polygon>
+                        <path d="M336.06,75.57 L285.1,29.75" id="Shape"></path>
+                        <polygon id="Shape" points="336 75.64 336.12 75.5 285.16 29.68 285.04 29.82"></polygon>
+                        <path d="M336.06,75.57 L344.63,22.35" id="Shape"></path>
+                        <polygon id="Shape" points="336.15 75.58 344.73 22.36 344.54 22.33 335.97 75.55"></polygon>
+                        <path d="M234.56,111.19 L282.33,88.76" id="Shape"></path>
+                        <polygon id="Shape" points="282.37 88.84 282.29 88.67 234.52 111.1 234.6 111.27"></polygon>
+                        <path d="M183.62,110.4 L234.56,111.19" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(209.099617, 110.390116) rotate(-89.090000) translate(-209.099617, -110.390116) " x="208.599617" y="84.9151158" width="1" height="50.95"></rect>
+                        <path d="M123.7,118.52 L183.62,110.4" id="Shape"></path>
+                        <polygon id="Shape" points="183.64 110.49 183.61 110.31 123.69 118.43 123.71 118.61"></polygon>
+                        <path d="M180.85,92.26 L123.7,118.52" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(152.452179, 105.778938) rotate(-24.910000) translate(-152.452179, -105.778938) " x="121.002179" y="105.278938" width="62.9" height="1"></rect>
+                        <path d="M180.85,92.26 L183.62,110.4" id="Shape"></path>
+                        <polygon id="Shape" points="183.71 110.38 180.94 92.24 180.76 92.27 183.53 110.41"></polygon>
+                        <path d="M180.85,92.26 L234.56,111.19" id="Shape"></path>
+                        <polygon id="Shape" points="234.53 111.27 234.59 111.1 180.88 92.17 180.82 92.34"></polygon>
+                        <path d="M221.46,51.15 L180.85,92.26" id="Shape"></path>
+                        <polygon id="Shape" points="180.91 92.32 221.53 51.22 221.4 51.09 180.78 92.19"></polygon>
+                        <path d="M221.46,51.15 L183.62,110.4" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(202.866616, 80.969087) rotate(-57.440000) translate(-202.866616, -80.969087) " x="167.716616" y="80.4690874" width="70.3" height="1"></rect>
+                        <path d="M221.46,51.15 L234.56,111.19" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(228.404991, 81.092933) rotate(-12.310000) translate(-228.404991, -81.092933) " x="227.904991" y="50.3679329" width="1" height="61.45"></rect>
+                        <path d="M221.46,51.15 L282.33,88.76" id="Shape"></path>
+                        <polygon id="Shape" points="282.28 88.83 282.38 88.68 221.51 51.07 221.41 51.23"></polygon>
+                        <path d="M295.67,128.56 L234.56,111.19" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(265.250190, 119.505077) rotate(-74.150000) translate(-265.250190, -119.505077) " x="264.75019" y="87.7400769" width="1" height="63.53"></rect>
+                        <path d="M295.67,128.56 L336.06,75.57" id="Shape"></path>
+                        <polygon id="Shape" points="295.74 128.61 336.13 75.62 335.99 75.51 295.6 128.5"></polygon>
+                        <path d="M295.67,128.56 L282.33,88.76" id="Shape"></path>
+                        <polygon id="Shape" points="295.76 128.53 282.42 88.73 282.24 88.78 295.58 128.59"></polygon>
+                        <path d="M308.65,187.78 L240.49,184.67" id="Shape"></path>
+                        <polygon id="Shape" points="308.65 187.87 308.66 187.69 240.5 184.58 240.49 184.76"></polygon>
+                        <path d="M308.65,187.78 L295.67,128.56" id="Shape"></path>
+                        <polygon id="Shape" points="308.74 187.76 295.76 128.54 295.58 128.58 308.56 187.8"></polygon>
+                        <path d="M308.65,187.78 L240.49,184.67" id="Shape"></path>
+                        <polygon id="Shape" points="308.65 187.87 308.66 187.69 240.5 184.58 240.49 184.76"></polygon>
+                        <path d="M308.65,187.78 L295.67,128.56" id="Shape"></path>
+                        <polygon id="Shape" points="308.74 187.76 295.76 128.54 295.58 128.58 308.56 187.8"></polygon>
+                        <path d="M203.8,228.85 L240.49,184.67" id="Shape"></path>
+                        <polygon id="Shape" points="203.87 228.91 240.56 184.73 240.42 184.61 203.73 228.79"></polygon>
+                        <path d="M193.53,167.75 L203.8,228.85" id="Shape"></path>
+                        <polygon id="Shape" points="203.89 228.84 193.62 167.73 193.44 167.76 203.71 228.87"></polygon>
+                        <path d="M193.53,167.75 L240.49,184.67" id="Shape"></path>
+                        <polygon id="Shape" points="240.46 184.76 240.52 184.58 193.56 167.66 193.49 167.83"></polygon>
+                        <path d="M193.53,167.75 L183.62,110.4" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(188.977577, 138.979586) rotate(-9.800000) translate(-188.977577, -138.979586) " x="188.477577" y="109.879586" width="1" height="58.2"></rect>
+                        <path d="M193.53,167.75 L234.56,111.19" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(214.364216, 139.694757) rotate(-54.040000) translate(-214.364216, -139.694757) " x="179.424216" y="139.194757" width="69.88" height="1"></rect>
+                        <path d="M274.87,141.65 L308.65,187.78" id="Shape"></path>
+                        <polygon id="Shape" points="308.58 187.84 308.73 187.73 274.94 141.59 274.8 141.7"></polygon>
+                        <path d="M274.87,141.65 L308.65,187.78" id="Shape"></path>
+                        <polygon id="Shape" points="308.58 187.84 308.73 187.73 274.94 141.59 274.8 141.7"></polygon>
+                        <path d="M274.87,141.65 L240.49,184.67" id="Shape"></path>
+                        <polygon id="Shape" points="240.56 184.73 274.94 141.71 274.8 141.59 240.42 184.61"></polygon>
+                        <path d="M274.87,141.65 L295.67,128.56" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(285.480639, 135.429145) rotate(-32.290000) translate(-285.480639, -135.429145) " x="273.190639" y="134.929145" width="24.58" height="1"></rect>
+                        <path d="M274.87,141.65 L234.56,111.19" id="Shape"></path>
+                        <polygon id="Shape" points="274.81 141.72 274.93 141.57 234.62 111.11 234.51 111.26"></polygon>
+                        <path d="M274.87,141.65 L282.33,88.76" id="Shape"></path>
+                        <polygon id="Shape" points="274.96 141.66 282.42 88.77 282.24 88.74 274.78 141.64"></polygon>
+                        <path d="M48.96,249.29 L20.91,183.13" id="Shape"></path>
+                        <polygon id="Shape" points="49.05 249.26 20.99 183.1 20.82 183.17 48.88 249.33"></polygon>
+                        <path d="M74.31,163.04 L44.62,165.57" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(59.492913, 164.719306) rotate(-4.570000) translate(-59.492913, -164.719306) " x="44.5979132" y="164.219306" width="29.79" height="1"></rect>
+                        <path d="M74.31,163.04 L133.37,180.04" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(103.959639, 171.149542) rotate(-73.960000) translate(-103.959639, -171.149542) " x="103.459639" y="140.419542" width="1" height="61.46"></rect>
+                        <path d="M74.31,163.04 L20.91,183.13" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(47.755527, 173.451790) rotate(-20.680000) translate(-47.755527, -173.451790) " x="19.2255272" y="172.95179" width="57.06" height="1"></rect>
+                        <path d="M74.31,163.04 L104.81,196.73" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(89.869859, 179.607608) rotate(-41.980000) translate(-89.869859, -179.607608) " x="89.3698593" y="156.882608" width="1" height="45.45"></rect>
+                        <path d="M74.31,163.04 L123.7,118.52" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(99.276978, 141.082697) rotate(-42.030000) translate(-99.276978, -141.082697) " x="66.0319779" y="140.582697" width="66.49" height="1"></rect>
+                        <path d="M139.25,146.08 L74.31,163.04" id="Shape"></path>
+                        <polygon id="Shape" points="139.27 146.17 139.23 145.99 74.28 162.95 74.33 163.13"></polygon>
+                        <path d="M139.25,146.08 L133.37,180.04" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(136.709452, 163.122754) rotate(-80.180000) translate(-136.709452, -163.122754) " x="119.479452" y="162.622754" width="34.46" height="1"></rect>
+                        <path d="M139.25,146.08 L104.81,196.73" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(122.374876, 171.651432) rotate(-55.780000) translate(-122.374876, -171.651432) " x="91.7498761" y="171.151432" width="61.25" height="1"></rect>
+                        <path d="M139.25,146.08 L193.53,167.75" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(166.543640, 156.528340) rotate(-67.900000) translate(-166.543640, -156.528340) " x="166.04364" y="127.30834" width="1" height="58.44"></rect>
+                        <path d="M139.25,146.08 L180.85,92.26" id="Shape"></path>
+                        <polygon id="Shape" points="139.32 146.14 180.92 92.31 180.78 92.2 139.18 146.03"></polygon>
+                        <path d="M139.25,146.08 L123.7,118.52" id="Shape"></path>
+                        <polygon id="Shape" points="139.33 146.04 123.78 118.47 123.62 118.56 139.17 146.13"></polygon>
+                        <path d="M139.25,146.08 L183.62,110.4" id="Shape"></path>
+                        <polygon id="Shape" points="139.31 146.15 183.68 110.47 183.57 110.33 139.19 146.01"></polygon>
+                        <path d="M1.6,150.15 L44.62,165.57" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(23.480500, 158.361900) rotate(-70.114835) translate(-23.480500, -158.361900) " x="22.9807" y="135.516044" width="1" height="45.6917123"></rect>
+                        <path d="M1.6,150.15 L20.91,183.13" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(11.603583, 166.432581) rotate(-30.350000) translate(-11.603583, -166.432581) " x="11.1035828" y="147.322581" width="1" height="38.22"></rect>
+                        <path d="M136.11,262.42 L104.81,196.73" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(120.819104, 229.430686) rotate(-25.470000) translate(-120.819104, -229.430686) " x="120.319104" y="193.045686" width="1" height="72.77"></rect>
+                        <path d="M72.83,248.35 L104.81,196.73" id="Shape"></path>
+                        <polygon id="Shape" points="72.91 248.39 104.89 196.78 104.74 196.68 72.75 248.3"></polygon>
+                        <path d="M389.35,109.96 L336.06,75.57" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(364.407800, 95.108000) rotate(-57.264774) translate(-364.407800, -95.108000) " x="363.9085" y="63.4424251" width="1" height="63.3311498"></rect>
+                        <path d="M347.88,154.33 L389.35,109.96" id="Shape"></path>
+                        <polygon id="Shape" points="347.95 154.39 389.42 110.02 389.28 109.89 347.82 154.26"></polygon>
+                        <path d="M347.88,154.33 L308.65,187.78" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(328.344200, 170.644100) rotate(-40.539152) translate(-328.344200, -170.644100) " x="302.562911" y="170.144075" width="51.5625779" height="1"></rect>
+                        <path d="M347.88,154.33 L308.65,187.78" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(328.344200, 170.644100) rotate(-40.539152) translate(-328.344200, -170.644100) " x="302.562911" y="170.144075" width="51.5625779" height="1"></rect>
+                        <path d="M347.88,154.33 L295.67,128.56" id="Shape"></path>
+                        <polygon id="Shape" points="347.84 154.41 347.92 154.25 295.71 128.48 295.63 128.64"></polygon>
+                        <path d="M384.52,74.06 L389.35,109.96" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(387.330152, 91.990935) rotate(-7.660000) translate(-387.330152, -91.990935) " x="386.830152" y="73.8809351" width="1" height="36.22"></rect>
+                        <path d="M384.52,74.06 L336.06,75.57" id="Shape"></path>
+                        <polygon id="Shape" points="384.52 74.15 384.52 73.97 336.06 75.47 336.06 75.66"></polygon>
+                        <path d="M384.52,74.06 L344.63,22.35" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(364.797150, 49.858050) rotate(-37.673593) translate(-364.797150, -49.858050) " x="364.298101" y="17.2651536" width="1" height="65.1857929"></rect>
+                        <path d="M443.92,125.62 L458.03,75.25" id="Shape"></path>
+                        <polygon id="Shape" points="444.01 125.64 458.12 75.27 457.94 75.22 443.83 125.59"></polygon>
+                        <path d="M443.92,125.62 L389.35,109.96" id="Shape"></path>
+                        <polygon id="Shape" points="443.89 125.71 443.94 125.53 389.38 109.87 389.32 110.04"></polygon>
+                        <path d="M366.57,192.2 L347.88,154.33" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(357.594817, 173.048887) rotate(-26.270000) translate(-357.594817, -173.048887) " x="357.094817" y="151.933887" width="1" height="42.23"></rect>
+                        <path d="M366.57,192.2 L340.44,153.25" id="Shape"></path>
+                        <polygon id="Shape" points="366.65 192.15 340.52 153.19 340.37 153.3 366.5 192.25"></polygon>
+                        <path d="M366.57,192.2 L308.65,187.78" id="Shape"></path>
+                        <polygon id="Shape" points="366.57 192.29 366.58 192.11 308.66 187.69 308.65 187.87"></polygon>
+                        <path d="M366.57,192.2 L308.65,187.78" id="Shape"></path>
+                        <polygon id="Shape" points="366.57 192.29 366.58 192.11 308.66 187.69 308.65 187.87"></polygon>
+                        <path d="M255.96,240.39 L240.49,184.67" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(248.619340, 212.419765) rotate(-15.510000) translate(-248.619340, -212.419765) " x="248.11934" y="183.504765" width="1" height="57.83"></rect>
+                        <path d="M228.13,170.06 L274.87,141.65" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(251.707463, 156.173643) rotate(-31.320000) translate(-251.707463, -156.173643) " x="224.357463" y="155.673643" width="54.7" height="1"></rect>
+                        <path d="M228.13,170.06 L193.53,167.75" id="Shape"></path>
+                        <polygon id="Shape" points="228.12 170.15 228.13 169.97 193.53 167.66 193.52 167.84"></polygon>
+                        <path d="M228.13,170.06 L203.8,228.85" id="Shape"></path>
+                        <polygon id="Shape" points="203.89 228.89 228.21 170.09 228.04 170.02 203.72 228.82"></polygon>
+                        <path d="M228.13,170.06 L240.49,184.67" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(234.618894, 177.091271) rotate(-40.010000) translate(-234.618894, -177.091271) " x="234.118894" y="167.521271" width="1" height="19.14"></rect>
+                        <path d="M228.13,170.06 L234.56,111.19" id="Shape"></path>
+                        <polygon id="Shape" points="228.22 170.07 234.65 111.2 234.47 111.18 228.04 170.05"></polygon>
+                        <path d="M241.47,83.21 L274.87,141.65" id="Shape"></path>
+                        <polygon id="Shape" points="274.95 141.6 241.55 83.16 241.39 83.25 274.79 141.69"></polygon>
+                        <path d="M241.47,83.21 L295.67,128.56" id="Shape"></path>
+                        <polygon id="Shape" points="295.61 128.63 295.73 128.49 241.53 83.14 241.41 83.28"></polygon>
+                        <path d="M241.47,83.21 L221.46,51.15" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(231.803507, 66.946561) rotate(-31.970000) translate(-231.803507, -66.946561) " x="231.303507" y="48.0515607" width="1" height="37.79"></rect>
+                        <path d="M241.47,83.21 L180.85,92.26" id="Shape"></path>
+                        <polygon id="Shape" points="241.48 83.3 241.45 83.12 180.84 92.16 180.86 92.35"></polygon>
+                        <path d="M241.47,83.21 L183.62,110.4" id="Shape"></path>
+                        <polygon id="Shape" points="241.51 83.29 241.43 83.12 183.58 110.31 183.66 110.48"></polygon>
+                        <path d="M241.47,83.21 L234.56,111.19" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(238.404097, 97.283008) rotate(-76.140000) translate(-238.404097, -97.283008) " x="223.994097" y="96.7830077" width="28.82" height="1"></rect>
+                        <path d="M241.47,83.21 L282.33,88.76" id="Shape"></path>
+                        <polygon id="Shape" points="282.32 88.85 282.34 88.66 241.48 83.12 241.45 83.3"></polygon>
+                        <path d="M241.47,83.21 L285.1,29.75" id="Shape"></path>
+                        <polygon id="Shape" points="241.54 83.27 285.18 29.81 285.03 29.69 241.4 83.15"></polygon>
+                        <path d="M241.47,83.21 L285.1,29.75" id="Shape"></path>
+                        <polygon id="Shape" points="241.54 83.27 285.18 29.81 285.03 29.69 241.4 83.15"></polygon>
+                        <path d="M312.79,92.16 L302.96,94.07" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(307.953327, 93.534705) rotate(-10.690000) translate(-307.953327, -93.534705) " x="302.948327" y="93.034705" width="10.01" height="1"></rect>
+                        <path d="M312.79,92.16 L347.88,154.33" id="Shape"></path>
+                        <polygon id="Shape" points="347.96 154.28 312.87 92.11 312.71 92.2 347.81 154.37"></polygon>
+                        <path d="M312.79,92.16 L340.44,153.25" id="Shape"></path>
+                        <polygon id="Shape" points="340.53 153.21 312.87 92.12 312.7 92.19 340.36 153.28"></polygon>
+                        <path d="M312.79,92.16 L274.87,141.65" id="Shape"></path>
+                        <polygon id="Shape" points="274.94 141.7 312.86 92.21 312.71 92.1 274.8 141.59"></polygon>
+                        <path d="M312.79,92.16 L295.67,128.56" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(304.571706, 110.514068) rotate(-64.820000) translate(-304.571706, -110.514068) " x="284.461706" y="110.014068" width="40.22" height="1"></rect>
+                        <path d="M312.79,92.16 L336.06,75.57" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(324.663146, 84.223479) rotate(-35.480000) translate(-324.663146, -84.223479) " x="310.373146" y="83.7234792" width="28.58" height="1"></rect>
+                        <path d="M312.79,92.16 L282.33,88.76" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(297.635278, 90.058004) rotate(-83.590000) translate(-297.635278, -90.058004) " x="297.135278" y="74.7380037" width="1" height="30.64"></rect>
+                        <path d="M312.79,92.16 L285.1,29.75" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(299.315614, 60.785922) rotate(-23.920000) translate(-299.315614, -60.785922) " x="298.815614" y="26.6509218" width="1" height="68.27"></rect>
+                        <path d="M312.79,92.16 L285.1,29.75" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(299.315614, 60.785922) rotate(-23.920000) translate(-299.315614, -60.785922) " x="298.815614" y="26.6509218" width="1" height="68.27"></rect>
+                        <path d="M385.37,43.15 L384.52,74.06" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(385.374666, 58.617979) rotate(-88.420000) translate(-385.374666, -58.617979) " x="369.909666" y="58.1179793" width="30.93" height="1"></rect>
+                        <path d="M385.37,43.15 L389.35,109.96" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(387.772389, 76.501234) rotate(-3.410000) translate(-387.772389, -76.501234) " x="387.272389" y="43.0362341" width="1" height="66.93"></rect>
+                        <path d="M385.37,43.15 L336.06,75.57" id="Shape"></path>
+                        <polygon id="Shape" points="385.42 43.22 385.32 43.07 336.01 75.49 336.11 75.64"></polygon>
+                        <path d="M355.72,110.98 L312.79,92.16" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(334.432969, 101.210761) rotate(-66.140000) translate(-334.432969, -101.210761) " x="333.932969" y="77.770761" width="1" height="46.88"></rect>
+                        <path d="M355.72,110.98 L302.96,94.07" id="Shape"></path>
+                        <polygon id="Shape" points="355.7 111.07 355.75 110.9 302.99 93.98 302.93 94.15"></polygon>
+                        <path d="M355.72,110.98 L384.52,74.06" id="Shape"></path>
+                        <polygon id="Shape" points="355.8 111.04 384.59 74.12 384.45 74.01 355.65 110.93"></polygon>
+                        <path d="M355.72,110.98 L347.88,154.33" id="Shape"></path>
+                        <polygon id="Shape" points="347.97 154.34 355.81 111 355.63 110.97 347.79 154.31"></polygon>
+                        <path d="M355.72,110.98 L340.33,153.32" id="Shape"></path>
+                        <polygon id="Shape" points="340.42 153.35 355.81 111.01 355.64 110.95 340.24 153.29"></polygon>
+                        <path d="M355.72,110.98 L389.35,109.96" id="Shape"></path>
+                        <polygon id="Shape" points="389.35 110.05 389.35 109.86 355.72 110.89 355.73 111.07"></polygon>
+                        <path d="M355.72,110.98 L295.67,128.56" id="Shape"></path>
+                        <polygon id="Shape" points="355.75 111.07 355.7 110.9 295.64 128.47 295.69 128.65"></polygon>
+                        <path d="M355.72,110.98 L336.06,75.57" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(346.235760, 93.041228) rotate(-29.040000) translate(-346.235760, -93.041228) " x="345.73576" y="72.7862283" width="1" height="40.51"></rect>
+                        <path d="M158.49,196.96 L136.11,262.42" id="Shape"></path>
+                        <polygon id="Shape" points="136.2 262.45 158.57 196.99 158.4 196.93 136.03 262.39"></polygon>
+                        <path d="M158.49,196.96 L139.25,146.08" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(149.249139, 171.383572) rotate(-20.710000) translate(-149.249139, -171.383572) " x="148.749139" y="144.188572" width="1" height="54.39"></rect>
+                        <path d="M158.49,196.96 L133.37,180.04" id="Shape"></path>
+                        <polygon id="Shape" points="158.44 197.03 158.54 196.88 133.43 179.96 133.32 180.12"></polygon>
+                        <path d="M158.49,196.96 L104.81,196.73" id="Shape"></path>
+                        <polygon id="Shape" points="158.49 197.05 158.49 196.87 104.81 196.64 104.81 196.82"></polygon>
+                        <path d="M158.49,196.96 L193.53,167.75" id="Shape"></path>
+                        <rect id="Rectangle-path" transform="translate(176.267761, 182.643851) rotate(-39.820000) translate(-176.267761, -182.643851) " x="153.457761" y="182.143851" width="45.62" height="1"></rect>
+                        <path d="M158.49,196.96 L203.8,228.85" id="Shape"></path>
+                        <polygon id="Shape" points="203.75 228.93 203.85 228.78 158.54 196.88 158.44 197.03"></polygon>
+                        <circle id="Oval" transform="translate(282.318196, 88.733222) rotate(-34.740000) translate(-282.318196, -88.733222) " cx="282.318196" cy="88.7332223" r="1"></circle>
+                        <circle id="Oval" transform="translate(282.318196, 88.733222) rotate(-34.740000) translate(-282.318196, -88.733222) " cx="282.318196" cy="88.7332223" r="1"></circle>
+                        <circle id="Oval" transform="translate(282.318196, 88.733222) rotate(-34.740000) translate(-282.318196, -88.733222) " cx="282.318196" cy="88.7332223" r="1"></circle>
+                        <circle id="Oval" transform="translate(336.050900, 75.544053) rotate(-34.760000) translate(-336.050900, -75.544053) " cx="336.0509" cy="75.5440527" r="1"></circle>
+                        <circle id="Oval" transform="translate(336.050900, 75.544053) rotate(-34.760000) translate(-336.050900, -75.544053) " cx="336.0509" cy="75.5440527" r="1"></circle>
+                        <circle id="Oval" transform="translate(336.050900, 75.544053) rotate(-34.760000) translate(-336.050900, -75.544053) " cx="336.0509" cy="75.5440527" r="1"></circle>
+                        <circle id="Oval" transform="translate(336.050900, 75.544053) rotate(-34.760000) translate(-336.050900, -75.544053) " cx="336.0509" cy="75.5440527" r="1"></circle>
+                        <circle id="Oval" transform="translate(282.318196, 88.733222) rotate(-34.740000) translate(-282.318196, -88.733222) " cx="282.318196" cy="88.7332223" r="1"></circle>
+                        <circle id="Oval" transform="translate(234.555180, 111.166889) rotate(-34.740000) translate(-234.555180, -111.166889) " cx="234.55518" cy="111.166889" r="1"></circle>
+                        <circle id="Oval" transform="translate(234.555180, 111.166889) rotate(-34.740000) translate(-234.555180, -111.166889) " cx="234.55518" cy="111.166889" r="1"></circle>
+                        <circle id="Oval" transform="translate(183.615234, 110.376039) rotate(-34.740000) translate(-183.615234, -110.376039) " cx="183.615234" cy="110.376039" r="1"></circle>
+                        <circle id="Oval" transform="translate(183.615234, 110.376039) rotate(-34.740000) translate(-183.615234, -110.376039) " cx="183.615234" cy="110.376039" r="1"></circle>
+                        <circle id="Oval" transform="translate(123.703399, 118.494232) rotate(-34.740000) translate(-123.703399, -118.494232) " cx="123.703399" cy="118.494232" r="1"></circle>
+                        <circle id="Oval" transform="translate(123.703399, 118.494232) rotate(-34.740000) translate(-123.703399, -118.494232) " cx="123.703399" cy="118.494232" r="1"></circle>
+                        <circle id="Oval" transform="translate(180.844161, 92.247133) rotate(-34.760000) translate(-180.844161, -92.247133) " cx="180.844161" cy="92.2471335" r="1"></circle>
+                        <circle id="Oval" transform="translate(183.615234, 110.376039) rotate(-34.740000) translate(-183.615234, -110.376039) " cx="183.615234" cy="110.376039" r="1"></circle>
+                        <circle id="Oval" transform="translate(180.844161, 92.247133) rotate(-34.760000) translate(-180.844161, -92.247133) " cx="180.844161" cy="92.2471335" r="1"></circle>
+                        <circle id="Oval" transform="translate(234.555180, 111.166889) rotate(-34.740000) translate(-234.555180, -111.166889) " cx="234.55518" cy="111.166889" r="1"></circle>
+                        <circle id="Oval" transform="translate(180.844161, 92.247133) rotate(-34.760000) translate(-180.844161, -92.247133) " cx="180.844161" cy="92.2471335" r="1"></circle>
+                        <circle id="Oval" transform="translate(180.844161, 92.247133) rotate(-34.760000) translate(-180.844161, -92.247133) " cx="180.844161" cy="92.2471335" r="1"></circle>
+                        <circle id="Oval" transform="translate(183.615234, 110.376039) rotate(-34.740000) translate(-183.615234, -110.376039) " cx="183.615234" cy="110.376039" r="1"></circle>
+                        <circle id="Oval" transform="translate(234.555180, 111.166889) rotate(-34.740000) translate(-234.555180, -111.166889) " cx="234.55518" cy="111.166889" r="1"></circle>
+                        <circle id="Oval" transform="translate(282.318196, 88.733222) rotate(-34.740000) translate(-282.318196, -88.733222) " cx="282.318196" cy="88.7332223" r="1"></circle>
+                        <circle id="Oval" transform="translate(234.555180, 111.166889) rotate(-34.740000) translate(-234.555180, -111.166889) " cx="234.55518" cy="111.166889" r="1"></circle>
+                        <circle id="Oval" transform="translate(295.670326, 128.565813) rotate(-34.760000) translate(-295.670326, -128.565813) " cx="295.670326" cy="128.565813" r="1"></circle>
+                        <circle id="Oval" transform="translate(336.050900, 75.544053) rotate(-34.760000) translate(-336.050900, -75.544053) " cx="336.0509" cy="75.5440527" r="1"></circle>
+                        <circle id="Oval" transform="translate(295.670326, 128.565813) rotate(-34.760000) translate(-295.670326, -128.565813) " cx="295.670326" cy="128.565813" r="1"></circle>
+                        <circle id="Oval" transform="translate(282.318196, 88.733222) rotate(-34.740000) translate(-282.318196, -88.733222) " cx="282.318196" cy="88.7332223" r="1"></circle>
+                        <circle id="Oval" transform="translate(295.670326, 128.565813) rotate(-34.760000) translate(-295.670326, -128.565813) " cx="295.670326" cy="128.565813" r="1"></circle>
+                        <circle id="Oval" transform="translate(240.487903, 184.653174) rotate(-34.760000) translate(-240.487903, -184.653174) " cx="240.487903" cy="184.653174" r="1"></circle>
+                        <circle id="Oval" transform="translate(308.654499, 187.746607) rotate(-34.730000) translate(-308.654499, -187.746607) " cx="308.654499" cy="187.746607" r="1"></circle>
+                        <circle id="Oval" transform="translate(295.670326, 128.565813) rotate(-34.760000) translate(-295.670326, -128.565813) " cx="295.670326" cy="128.565813" r="1"></circle>
+                        <circle id="Oval" transform="translate(308.654499, 187.746607) rotate(-34.730000) translate(-308.654499, -187.746607) " cx="308.654499" cy="187.746607" r="1"></circle>
+                        <circle id="Oval" transform="translate(240.487903, 184.653174) rotate(-34.760000) translate(-240.487903, -184.653174) " cx="240.487903" cy="184.653174" r="1"></circle>
+                        <circle id="Oval" transform="translate(308.654499, 187.746607) rotate(-34.730000) translate(-308.654499, -187.746607) " cx="308.654499" cy="187.746607" r="1"></circle>
+                        <circle id="Oval" transform="translate(295.670326, 128.565813) rotate(-34.760000) translate(-295.670326, -128.565813) " cx="295.670326" cy="128.565813" r="1"></circle>
+                        <circle id="Oval" transform="translate(308.654499, 187.746607) rotate(-34.730000) translate(-308.654499, -187.746607) " cx="308.654499" cy="187.746607" r="1"></circle>
+                        <circle id="Oval" transform="translate(240.487903, 184.653174) rotate(-34.760000) translate(-240.487903, -184.653174) " cx="240.487903" cy="184.653174" r="1"></circle>
+                        <circle id="Oval" transform="translate(193.529831, 167.735949) rotate(-34.740000) translate(-193.529831, -167.735949) " cx="193.529831" cy="167.735949" r="1"></circle>
+                        <circle id="Oval" transform="translate(240.487903, 184.653174) rotate(-34.760000) translate(-240.487903, -184.653174) " cx="240.487903" cy="184.653174" r="1"></circle>
+                        <circle id="Oval" transform="translate(193.529831, 167.735949) rotate(-34.740000) translate(-193.529831, -167.735949) " cx="193.529831" cy="167.735949" r="1"></circle>
+                        <circle id="Oval" transform="translate(183.615234, 110.376039) rotate(-34.740000) translate(-183.615234, -110.376039) " cx="183.615234" cy="110.376039" r="1"></circle>
+                        <circle id="Oval" transform="translate(193.529831, 167.735949) rotate(-34.740000) translate(-193.529831, -167.735949) " cx="193.529831" cy="167.735949" r="1"></circle>
+                        <circle id="Oval" transform="translate(234.555180, 111.166889) rotate(-34.740000) translate(-234.555180, -111.166889) " cx="234.55518" cy="111.166889" r="1"></circle>
+                        <circle id="Oval" transform="translate(193.529831, 167.735949) rotate(-34.740000) translate(-193.529831, -167.735949) " cx="193.529831" cy="167.735949" r="1"></circle>
+                        <circle id="Oval" transform="translate(308.654499, 187.746607) rotate(-34.730000) translate(-308.654499, -187.746607) " cx="308.654499" cy="187.746607" r="1"></circle>
+                        <circle id="Oval" transform="translate(274.867511, 141.616496) rotate(-34.740000) translate(-274.867511, -141.616496) " cx="274.867511" cy="141.616496" r="1"></circle>
+                        <circle id="Oval" transform="translate(308.654499, 187.746607) rotate(-34.730000) translate(-308.654499, -187.746607) " cx="308.654499" cy="187.746607" r="1"></circle>
+                        <circle id="Oval" transform="translate(274.867511, 141.616496) rotate(-34.740000) translate(-274.867511, -141.616496) " cx="274.867511" cy="141.616496" r="1"></circle>
+                        <circle id="Oval" transform="translate(240.487903, 184.653174) rotate(-34.760000) translate(-240.487903, -184.653174) " cx="240.487903" cy="184.653174" r="1"></circle>
+                        <circle id="Oval" transform="translate(274.867511, 141.616496) rotate(-34.740000) translate(-274.867511, -141.616496) " cx="274.867511" cy="141.616496" r="1"></circle>
+                        <circle id="Oval" transform="translate(295.670326, 128.565813) rotate(-34.760000) translate(-295.670326, -128.565813) " cx="295.670326" cy="128.565813" r="1"></circle>
+                        <circle id="Oval" transform="translate(274.867511, 141.616496) rotate(-34.740000) translate(-274.867511, -141.616496) " cx="274.867511" cy="141.616496" r="1"></circle>
+                        <circle id="Oval" transform="translate(234.555180, 111.166889) rotate(-34.740000) translate(-234.555180, -111.166889) " cx="234.55518" cy="111.166889" r="1"></circle>
+                        <circle id="Oval" transform="translate(274.867511, 141.616496) rotate(-34.740000) translate(-274.867511, -141.616496) " cx="274.867511" cy="141.616496" r="1"></circle>
+                        <circle id="Oval" transform="translate(282.318196, 88.733222) rotate(-34.740000) translate(-282.318196, -88.733222) " cx="282.318196" cy="88.7332223" r="1"></circle>
+                        <circle id="Oval" transform="translate(274.867511, 141.616496) rotate(-34.740000) translate(-274.867511, -141.616496) " cx="274.867511" cy="141.616496" r="1"></circle>
+                        <circle id="Oval" transform="translate(20.914499, 183.119366) rotate(-34.760000) translate(-20.914499, -183.119366) " cx="20.9144994" cy="183.119366" r="1"></circle>
+                        <circle id="Oval" transform="translate(44.621728, 165.574970) rotate(-34.760000) translate(-44.621728, -165.574970) " cx="44.6217281" cy="165.57497" r="1"></circle>
+                        <circle id="Oval" transform="translate(74.311017, 163.028994) rotate(-34.760000) translate(-74.311017, -163.028994) " cx="74.3110171" cy="163.028994" r="1"></circle>
+                        <circle id="Oval" transform="translate(133.366592, 180.074735) rotate(-34.710000) translate(-133.366592, -180.074735) " cx="133.366592" cy="180.074735" r="1"></circle>
+                        <circle id="Oval" transform="translate(74.311017, 163.028994) rotate(-34.760000) translate(-74.311017, -163.028994) " cx="74.3110171" cy="163.028994" r="1"></circle>
+                        <circle id="Oval" transform="translate(20.914499, 183.119366) rotate(-34.760000) translate(-20.914499, -183.119366) " cx="20.9144994" cy="183.119366" r="1"></circle>
+                        <circle id="Oval" transform="translate(74.311017, 163.028994) rotate(-34.760000) translate(-74.311017, -163.028994) " cx="74.3110171" cy="163.028994" r="1"></circle>
+                        <circle id="Oval" transform="translate(104.806236, 196.737652) rotate(-34.760000) translate(-104.806236, -196.737652) " cx="104.806236" cy="196.737652" r="1"></circle>
+                        <circle id="Oval" transform="translate(74.311017, 163.028994) rotate(-34.760000) translate(-74.311017, -163.028994) " cx="74.3110171" cy="163.028994" r="1"></circle>
+                        <circle id="Oval" transform="translate(123.703399, 118.494232) rotate(-34.740000) translate(-123.703399, -118.494232) " cx="123.703399" cy="118.494232" r="1"></circle>
+                        <circle id="Oval" transform="translate(74.311017, 163.028994) rotate(-34.760000) translate(-74.311017, -163.028994) " cx="74.3110171" cy="163.028994" r="1"></circle>
+                        <circle id="Oval" transform="translate(74.311017, 163.028994) rotate(-34.760000) translate(-74.311017, -163.028994) " cx="74.3110171" cy="163.028994" r="1"></circle>
+                        <circle id="Oval" transform="translate(139.246714, 146.060344) rotate(-34.740000) translate(-139.246714, -146.060344) " cx="139.246714" cy="146.060344" r="1"></circle>
+                        <circle id="Oval" transform="translate(133.366592, 180.074735) rotate(-34.710000) translate(-133.366592, -180.074735) " cx="133.366592" cy="180.074735" r="1"></circle>
+                        <circle id="Oval" transform="translate(139.246714, 146.060344) rotate(-34.740000) translate(-139.246714, -146.060344) " cx="139.246714" cy="146.060344" r="1"></circle>
+                        <circle id="Oval" transform="translate(104.806236, 196.737652) rotate(-34.760000) translate(-104.806236, -196.737652) " cx="104.806236" cy="196.737652" r="1"></circle>
+                        <circle id="Oval" transform="translate(139.246714, 146.060344) rotate(-34.740000) translate(-139.246714, -146.060344) " cx="139.246714" cy="146.060344" r="1"></circle>
+                        <circle id="Oval" transform="translate(193.529831, 167.735949) rotate(-34.740000) translate(-193.529831, -167.735949) " cx="193.529831" cy="167.735949" r="1"></circle>
+                        <circle id="Oval" transform="translate(139.246714, 146.060344) rotate(-34.740000) translate(-139.246714, -146.060344) " cx="139.246714" cy="146.060344" r="1"></circle>
+                        <circle id="Oval" transform="translate(180.844161, 92.247133) rotate(-34.760000) translate(-180.844161, -92.247133) " cx="180.844161" cy="92.2471335" r="1"></circle>
+                        <circle id="Oval" transform="translate(139.246714, 146.060344) rotate(-34.740000) translate(-139.246714, -146.060344) " cx="139.246714" cy="146.060344" r="1"></circle>
+                        <circle id="Oval" transform="translate(123.703399, 118.494232) rotate(-34.740000) translate(-123.703399, -118.494232) " cx="123.703399" cy="118.494232" r="1"></circle>
+                        <circle id="Oval" transform="translate(139.246714, 146.060344) rotate(-34.740000) translate(-139.246714, -146.060344) " cx="139.246714" cy="146.060344" r="1"></circle>
+                        <circle id="Oval" transform="translate(183.615234, 110.376039) rotate(-34.740000) translate(-183.615234, -110.376039) " cx="183.615234" cy="110.376039" r="1"></circle>
+                        <circle id="Oval" transform="translate(139.246714, 146.060344) rotate(-34.740000) translate(-139.246714, -146.060344) " cx="139.246714" cy="146.060344" r="1"></circle>
+                        <circle id="Oval" transform="translate(44.621728, 165.574970) rotate(-34.760000) translate(-44.621728, -165.574970) " cx="44.6217281" cy="165.57497" r="1"></circle>
+                        <circle id="Oval" transform="translate(1.607196, 150.134138) rotate(-34.760000) translate(-1.607196, -150.134138) " cx="1.60719591" cy="150.134138" r="1"></circle>
+                        <circle id="Oval" transform="translate(20.914499, 183.119366) rotate(-34.760000) translate(-20.914499, -183.119366) " cx="20.9144994" cy="183.119366" r="1"></circle>
+                        <circle id="Oval" transform="translate(1.607196, 150.134138) rotate(-34.760000) translate(-1.607196, -150.134138) " cx="1.60719591" cy="150.134138" r="1"></circle>
+                        <circle id="Oval" transform="translate(104.806236, 196.737652) rotate(-34.760000) translate(-104.806236, -196.737652) " cx="104.806236" cy="196.737652" r="1"></circle>
+                        <circle id="Oval" transform="translate(104.806236, 196.737652) rotate(-34.760000) translate(-104.806236, -196.737652) " cx="104.806236" cy="196.737652" r="1"></circle>
+                        <circle id="Oval" transform="translate(336.050900, 75.544053) rotate(-34.760000) translate(-336.050900, -75.544053) " cx="336.0509" cy="75.5440527" r="1"></circle>
+                        <circle id="Oval" transform="translate(389.348284, 109.934300) rotate(-34.760000) translate(-389.348284, -109.934300) " cx="389.348284" cy="109.9343" r="1"></circle>
+                        <circle id="Oval" transform="translate(389.348284, 109.934300) rotate(-34.760000) translate(-389.348284, -109.934300) " cx="389.348284" cy="109.9343" r="1"></circle>
+                        <circle id="Oval" transform="translate(347.868957, 154.291247) rotate(-34.740000) translate(-347.868957, -154.291247) " cx="347.868957" cy="154.291247" r="1"></circle>
+                        <circle id="Oval" transform="translate(308.654499, 187.746607) rotate(-34.730000) translate(-308.654499, -187.746607) " cx="308.654499" cy="187.746607" r="1"></circle>
+                        <circle id="Oval" transform="translate(347.868957, 154.291247) rotate(-34.740000) translate(-347.868957, -154.291247) " cx="347.868957" cy="154.291247" r="1"></circle>
+                        <circle id="Oval" transform="translate(308.654499, 187.746607) rotate(-34.730000) translate(-308.654499, -187.746607) " cx="308.654499" cy="187.746607" r="1"></circle>
+                        <circle id="Oval" transform="translate(347.868957, 154.291247) rotate(-34.740000) translate(-347.868957, -154.291247) " cx="347.868957" cy="154.291247" r="1"></circle>
+                        <circle id="Oval" transform="translate(295.670326, 128.565813) rotate(-34.760000) translate(-295.670326, -128.565813) " cx="295.670326" cy="128.565813" r="1"></circle>
+                        <circle id="Oval" transform="translate(347.868957, 154.291247) rotate(-34.740000) translate(-347.868957, -154.291247) " cx="347.868957" cy="154.291247" r="1"></circle>
+                        <circle id="Oval" transform="translate(389.348284, 109.934300) rotate(-34.760000) translate(-389.348284, -109.934300) " cx="389.348284" cy="109.9343" r="1"></circle>
+                        <circle id="Oval" transform="translate(384.505617, 74.020236) rotate(-34.740000) translate(-384.505617, -74.020236) " cx="384.505617" cy="74.0202364" r="1"></circle>
+                        <circle id="Oval" transform="translate(336.050900, 75.544053) rotate(-34.760000) translate(-336.050900, -75.544053) " cx="336.0509" cy="75.5440527" r="1"></circle>
+                        <circle id="Oval" transform="translate(384.505617, 74.020236) rotate(-34.740000) translate(-384.505617, -74.020236) " cx="384.505617" cy="74.0202364" r="1"></circle>
+                        <circle id="Oval" transform="translate(384.505617, 74.020236) rotate(-34.740000) translate(-384.505617, -74.020236) " cx="384.505617" cy="74.0202364" r="1"></circle>
+                        <circle id="Oval" transform="translate(458.022597, 75.221162) rotate(-34.760000) translate(-458.022597, -75.221162) " cx="458.022597" cy="75.2211624" r="1"></circle>
+                        <circle id="Oval" transform="translate(443.908522, 125.587185) rotate(-34.760000) translate(-443.908522, -125.587185) " cx="443.908522" cy="125.587185" r="1"></circle>
+                        <circle id="Oval" transform="translate(389.348284, 109.934300) rotate(-34.760000) translate(-389.348284, -109.934300) " cx="389.348284" cy="109.9343" r="1"></circle>
+                        <circle id="Oval" transform="translate(443.908522, 125.587185) rotate(-34.760000) translate(-443.908522, -125.587185) " cx="443.908522" cy="125.587185" r="1"></circle>
+                        <circle id="Oval" transform="translate(347.868957, 154.291247) rotate(-34.740000) translate(-347.868957, -154.291247) " cx="347.868957" cy="154.291247" r="1"></circle>
+                        <circle id="Oval" transform="translate(366.561760, 192.176155) rotate(-34.760000) translate(-366.561760, -192.176155) " cx="366.56176" cy="192.176155" r="1"></circle>
+                        <circle id="Oval" transform="translate(340.447766, 153.254644) rotate(-34.760000) translate(-340.447766, -153.254644) " cx="340.447766" cy="153.254644" r="1"></circle>
+                        <circle id="Oval" transform="translate(366.561760, 192.176155) rotate(-34.760000) translate(-366.561760, -192.176155) " cx="366.56176" cy="192.176155" r="1"></circle>
+                        <circle id="Oval" transform="translate(308.654499, 187.746607) rotate(-34.730000) translate(-308.654499, -187.746607) " cx="308.654499" cy="187.746607" r="1"></circle>
+                        <circle id="Oval" transform="translate(366.561760, 192.176155) rotate(-34.760000) translate(-366.561760, -192.176155) " cx="366.56176" cy="192.176155" r="1"></circle>
+                        <circle id="Oval" transform="translate(308.654499, 187.746607) rotate(-34.730000) translate(-308.654499, -187.746607) " cx="308.654499" cy="187.746607" r="1"></circle>
+                        <circle id="Oval" transform="translate(366.561760, 192.176155) rotate(-34.760000) translate(-366.561760, -192.176155) " cx="366.56176" cy="192.176155" r="1"></circle>
+                        <circle id="Oval" transform="translate(240.487903, 184.653174) rotate(-34.760000) translate(-240.487903, -184.653174) " cx="240.487903" cy="184.653174" r="1"></circle>
+                        <circle id="Oval" transform="translate(274.867511, 141.616496) rotate(-34.740000) translate(-274.867511, -141.616496) " cx="274.867511" cy="141.616496" r="1"></circle>
+                        <circle id="Oval" transform="translate(228.128618, 170.027257) rotate(-34.740000) translate(-228.128618, -170.027257) " cx="228.128618" cy="170.027257" r="1"></circle>
+                        <circle id="Oval" transform="translate(193.529831, 167.735949) rotate(-34.740000) translate(-193.529831, -167.735949) " cx="193.529831" cy="167.735949" r="1"></circle>
+                        <circle id="Oval" transform="translate(228.128618, 170.027257) rotate(-34.740000) translate(-228.128618, -170.027257) " cx="228.128618" cy="170.027257" r="1"></circle>
+                        <circle id="Oval" transform="translate(228.128618, 170.027257) rotate(-34.740000) translate(-228.128618, -170.027257) " cx="228.128618" cy="170.027257" r="1"></circle>
+                        <circle id="Oval" transform="translate(240.487903, 184.653174) rotate(-34.760000) translate(-240.487903, -184.653174) " cx="240.487903" cy="184.653174" r="1"></circle>
+                        <circle id="Oval" transform="translate(228.128618, 170.027257) rotate(-34.740000) translate(-228.128618, -170.027257) " cx="228.128618" cy="170.027257" r="1"></circle>
+                        <circle id="Oval" transform="translate(234.555180, 111.166889) rotate(-34.740000) translate(-234.555180, -111.166889) " cx="234.55518" cy="111.166889" r="1"></circle>
+                        <circle id="Oval" transform="translate(228.128618, 170.027257) rotate(-34.740000) translate(-228.128618, -170.027257) " cx="228.128618" cy="170.027257" r="1"></circle>
+                        <circle id="Oval" transform="translate(274.867511, 141.616496) rotate(-34.740000) translate(-274.867511, -141.616496) " cx="274.867511" cy="141.616496" r="1"></circle>
+                        <circle id="Oval" transform="translate(241.468951, 83.196738) rotate(-34.740000) translate(-241.468951, -83.196738) " cx="241.468951" cy="83.1967376" r="1"></circle>
+                        <circle id="Oval" transform="translate(295.670326, 128.565813) rotate(-34.760000) translate(-295.670326, -128.565813) " cx="295.670326" cy="128.565813" r="1"></circle>
+                        <circle id="Oval" transform="translate(241.468951, 83.196738) rotate(-34.740000) translate(-241.468951, -83.196738) " cx="241.468951" cy="83.1967376" r="1"></circle>
+                        <circle id="Oval" transform="translate(241.468951, 83.196738) rotate(-34.740000) translate(-241.468951, -83.196738) " cx="241.468951" cy="83.1967376" r="1"></circle>
+                        <circle id="Oval" transform="translate(180.844161, 92.247133) rotate(-34.760000) translate(-180.844161, -92.247133) " cx="180.844161" cy="92.2471335" r="1"></circle>
+                        <circle id="Oval" transform="translate(241.468951, 83.196738) rotate(-34.740000) translate(-241.468951, -83.196738) " cx="241.468951" cy="83.1967376" r="1"></circle>
+                        <circle id="Oval" transform="translate(183.615234, 110.376039) rotate(-34.740000) translate(-183.615234, -110.376039) " cx="183.615234" cy="110.376039" r="1"></circle>
+                        <circle id="Oval" transform="translate(241.468951, 83.196738) rotate(-34.740000) translate(-241.468951, -83.196738) " cx="241.468951" cy="83.1967376" r="1"></circle>
+                        <circle id="Oval" transform="translate(234.555180, 111.166889) rotate(-34.740000) translate(-234.555180, -111.166889) " cx="234.55518" cy="111.166889" r="1"></circle>
+                        <circle id="Oval" transform="translate(241.468951, 83.196738) rotate(-34.740000) translate(-241.468951, -83.196738) " cx="241.468951" cy="83.1967376" r="1"></circle>
+                        <circle id="Oval" transform="translate(282.318196, 88.733222) rotate(-34.740000) translate(-282.318196, -88.733222) " cx="282.318196" cy="88.7332223" r="1"></circle>
+                        <circle id="Oval" transform="translate(241.468951, 83.196738) rotate(-34.740000) translate(-241.468951, -83.196738) " cx="241.468951" cy="83.1967376" r="1"></circle>
+                        <circle id="Oval" transform="translate(241.468951, 83.196738) rotate(-34.740000) translate(-241.468951, -83.196738) " cx="241.468951" cy="83.1967376" r="1"></circle>
+                        <circle id="Oval" transform="translate(241.468951, 83.196738) rotate(-34.740000) translate(-241.468951, -83.196738) " cx="241.468951" cy="83.1967376" r="1"></circle>
+                        <circle id="Oval" transform="translate(302.187100, 93.760200) rotate(-34.804012) translate(-302.187100, -93.760200) " cx="302.1871" cy="93.7602" r="1"></circle>
+                        <circle id="Oval" transform="translate(312.776093, 92.129427) rotate(-34.740000) translate(-312.776093, -92.129427) " cx="312.776093" cy="92.1294271" r="1"></circle>
+                        <circle id="Oval" transform="translate(347.868957, 154.291247) rotate(-34.740000) translate(-347.868957, -154.291247) " cx="347.868957" cy="154.291247" r="1"></circle>
+                        <circle id="Oval" transform="translate(312.776093, 92.129427) rotate(-34.740000) translate(-312.776093, -92.129427) " cx="312.776093" cy="92.1294271" r="1"></circle>
+                        <circle id="Oval" transform="translate(340.447766, 153.254644) rotate(-34.760000) translate(-340.447766, -153.254644) " cx="340.447766" cy="153.254644" r="1"></circle>
+                        <circle id="Oval" transform="translate(312.776093, 92.129427) rotate(-34.740000) translate(-312.776093, -92.129427) " cx="312.776093" cy="92.1294271" r="1"></circle>
+                        <circle id="Oval" transform="translate(274.867511, 141.616496) rotate(-34.740000) translate(-274.867511, -141.616496) " cx="274.867511" cy="141.616496" r="1"></circle>
+                        <circle id="Oval" transform="translate(312.776093, 92.129427) rotate(-34.740000) translate(-312.776093, -92.129427) " cx="312.776093" cy="92.1294271" r="1"></circle>
+                        <circle id="Oval" transform="translate(295.670326, 128.565813) rotate(-34.760000) translate(-295.670326, -128.565813) " cx="295.670326" cy="128.565813" r="1"></circle>
+                        <circle id="Oval" transform="translate(312.776093, 92.129427) rotate(-34.740000) translate(-312.776093, -92.129427) " cx="312.776093" cy="92.1294271" r="1"></circle>
+                        <circle id="Oval" transform="translate(336.050900, 75.544053) rotate(-34.760000) translate(-336.050900, -75.544053) " cx="336.0509" cy="75.5440527" r="1"></circle>
+                        <circle id="Oval" transform="translate(312.776093, 92.129427) rotate(-34.740000) translate(-312.776093, -92.129427) " cx="312.776093" cy="92.1294271" r="1"></circle>
+                        <circle id="Oval" transform="translate(282.318196, 88.733222) rotate(-34.740000) translate(-282.318196, -88.733222) " cx="282.318196" cy="88.7332223" r="1"></circle>
+                        <circle id="Oval" transform="translate(312.776093, 92.129427) rotate(-34.740000) translate(-312.776093, -92.129427) " cx="312.776093" cy="92.1294271" r="1"></circle>
+                        <circle id="Oval" transform="translate(312.776093, 92.129427) rotate(-34.740000) translate(-312.776093, -92.129427) " cx="312.776093" cy="92.1294271" r="1"></circle>
+                        <circle id="Oval" transform="translate(312.776093, 92.129427) rotate(-34.740000) translate(-312.776093, -92.129427) " cx="312.776093" cy="92.1294271" r="1"></circle>
+                        <circle id="Oval" transform="translate(384.505617, 74.020236) rotate(-34.740000) translate(-384.505617, -74.020236) " cx="384.505617" cy="74.0202364" r="1"></circle>
+                        <circle id="Oval" transform="translate(389.348284, 109.934300) rotate(-34.760000) translate(-389.348284, -109.934300) " cx="389.348284" cy="109.9343" r="1"></circle>
+                        <circle id="Oval" transform="translate(336.050900, 75.544053) rotate(-34.760000) translate(-336.050900, -75.544053) " cx="336.0509" cy="75.5440527" r="1"></circle>
+                        <circle id="Oval" transform="translate(312.776093, 92.129427) rotate(-34.740000) translate(-312.776093, -92.129427) " cx="312.776093" cy="92.1294271" r="1"></circle>
+                        <circle id="Oval" transform="translate(355.708306, 110.950890) rotate(-34.740000) translate(-355.708306, -110.950890) " cx="355.708306" cy="110.95089" r="1"></circle>
+                        <circle id="Oval" transform="translate(302.187100, 93.760200) rotate(-34.804012) translate(-302.187100, -93.760200) " cx="302.1871" cy="93.7602" r="1"></circle>
+                        <circle id="Oval" transform="translate(355.708306, 110.950890) rotate(-34.740000) translate(-355.708306, -110.950890) " cx="355.708306" cy="110.95089" r="1"></circle>
+                        <circle id="Oval" transform="translate(384.505617, 74.020236) rotate(-34.740000) translate(-384.505617, -74.020236) " cx="384.505617" cy="74.0202364" r="1"></circle>
+                        <circle id="Oval" transform="translate(355.708306, 110.950890) rotate(-34.740000) translate(-355.708306, -110.950890) " cx="355.708306" cy="110.95089" r="1"></circle>
+                        <circle id="Oval" transform="translate(347.868957, 154.291247) rotate(-34.740000) translate(-347.868957, -154.291247) " cx="347.868957" cy="154.291247" r="1"></circle>
+                        <circle id="Oval" transform="translate(355.708306, 110.950890) rotate(-34.740000) translate(-355.708306, -110.950890) " cx="355.708306" cy="110.95089" r="1"></circle>
+                        <circle id="Oval" transform="translate(340.319220, 153.283676) rotate(-34.740000) translate(-340.319220, -153.283676) " cx="340.31922" cy="153.283676" r="1"></circle>
+                        <circle id="Oval" transform="translate(355.708306, 110.950890) rotate(-34.740000) translate(-355.708306, -110.950890) " cx="355.708306" cy="110.95089" r="1"></circle>
+                        <circle id="Oval" transform="translate(389.348284, 109.934300) rotate(-34.760000) translate(-389.348284, -109.934300) " cx="389.348284" cy="109.9343" r="1"></circle>
+                        <circle id="Oval" transform="translate(355.708306, 110.950890) rotate(-34.740000) translate(-355.708306, -110.950890) " cx="355.708306" cy="110.95089" r="1"></circle>
+                        <circle id="Oval" transform="translate(295.670326, 128.565813) rotate(-34.760000) translate(-295.670326, -128.565813) " cx="295.670326" cy="128.565813" r="1"></circle>
+                        <circle id="Oval" transform="translate(355.708306, 110.950890) rotate(-34.740000) translate(-355.708306, -110.950890) " cx="355.708306" cy="110.95089" r="1"></circle>
+                        <circle id="Oval" transform="translate(336.050900, 75.544053) rotate(-34.760000) translate(-336.050900, -75.544053) " cx="336.0509" cy="75.5440527" r="1"></circle>
+                        <circle id="Oval" transform="translate(355.708306, 110.950890) rotate(-34.740000) translate(-355.708306, -110.950890) " cx="355.708306" cy="110.95089" r="1"></circle>
+                        <circle id="Oval" transform="translate(158.488035, 196.941485) rotate(-34.760000) translate(-158.488035, -196.941485) " cx="158.488035" cy="196.941485" r="1"></circle>
+                        <circle id="Oval" transform="translate(139.246714, 146.060344) rotate(-34.740000) translate(-139.246714, -146.060344) " cx="139.246714" cy="146.060344" r="1"></circle>
+                        <circle id="Oval" transform="translate(158.488035, 196.941485) rotate(-34.760000) translate(-158.488035, -196.941485) " cx="158.488035" cy="196.941485" r="1"></circle>
+                        <circle id="Oval" transform="translate(133.366592, 180.074735) rotate(-34.710000) translate(-133.366592, -180.074735) " cx="133.366592" cy="180.074735" r="1"></circle>
+                        <circle id="Oval" transform="translate(158.488035, 196.941485) rotate(-34.760000) translate(-158.488035, -196.941485) " cx="158.488035" cy="196.941485" r="1"></circle>
+                        <circle id="Oval" transform="translate(104.806236, 196.737652) rotate(-34.760000) translate(-104.806236, -196.737652) " cx="104.806236" cy="196.737652" r="1"></circle>
+                        <circle id="Oval" transform="translate(158.488035, 196.941485) rotate(-34.760000) translate(-158.488035, -196.941485) " cx="158.488035" cy="196.941485" r="1"></circle>
+                        <circle id="Oval" transform="translate(193.529831, 167.735949) rotate(-34.740000) translate(-193.529831, -167.735949) " cx="193.529831" cy="167.735949" r="1"></circle>
+                        <circle id="Oval" transform="translate(158.488035, 196.941485) rotate(-34.760000) translate(-158.488035, -196.941485) " cx="158.488035" cy="196.941485" r="1"></circle>
+                        <circle id="Oval" transform="translate(158.488035, 196.941485) rotate(-34.760000) translate(-158.488035, -196.941485) " cx="158.488035" cy="196.941485" r="1"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
